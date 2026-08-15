@@ -135,10 +135,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T13:34:36Z",
+            "last_commit": "2026-08-14T17:32:12Z",
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 2947
+            "stars": 2948
           }
         },
         {
@@ -326,7 +326,7 @@
             "last_commit": "2026-03-23T15:22:47Z",
             "owner": "00-Evan",
             "repo": "shattered-pixel-dungeon",
-            "stars": 6414
+            "stars": 6417
           }
         },
         {
@@ -351,7 +351,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T04:06:39Z",
+            "last_commit": "2026-08-15T10:36:36Z",
             "owner": "HabitRPG",
             "repo": "habitica-android",
             "stars": 1813
@@ -602,7 +602,7 @@
             "last_commit": "2026-03-26T23:13:27Z",
             "owner": "openai",
             "repo": "gym",
-            "stars": 37241
+            "stars": 37239
           }
         },
         {
@@ -616,7 +616,7 @@
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24933
+            "stars": 24932
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3097
+            "stars": 3100
           }
         },
         {
@@ -644,7 +644,7 @@
             "last_commit": "2026-03-25T03:16:25Z",
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
-            "stars": 2139
+            "stars": 2140
           }
         },
         {
@@ -658,7 +658,7 @@
             "last_commit": "2026-07-15T06:46:27Z",
             "owner": "soruly",
             "repo": "awesome-acg",
-            "stars": 1468
+            "stars": 1467
           }
         },
         {
@@ -694,7 +694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:30:05.512Z",
+    "last_updated": "2026-08-15T10:59:47.786Z",
     "original_repository": "leomaurodesenv/game-datasets",
     "original_repository_sha": "f2a3348ef0895fbed20b1fad2ef760b78292bb13",
     "enhanced_repository": "enhansome/enhansome-game-datasets",

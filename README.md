@@ -68,7 +68,7 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Malmo](https://github.com/Microsoft/malmo) ⭐ 4,270 | 🐛 171 | 🌐 Java | 📅 2025-09-03 - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 * [Retro Contest](https://github.com/openai/retro) ⚠️ Archived - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
-* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,947 | 🐛 433 | 🌐 C++ | 📅 2026-08-13 - Roguelike adventure.
+* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,948 | 🐛 433 | 🌐 C++ | 📅 2026-08-14 - Roguelike adventure.
 * [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 2,059 | 🐛 39 | 🌐 C++ | 📅 2026-08-13 - Doom game competition.
 * [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,784 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-04-21 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 * [qengine](https://github.com/klaussilveira/qengine) ⭐ 885 | 🐛 5 | 🌐 C | 📅 2026-04-09 - Retro game engine.
@@ -101,9 +101,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,414 | 🐛 8 | 🌐 Java | 📅 2026-03-23 - Improved Pixel Dungeon.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,417 | 🐛 9 | 🌐 Java | 📅 2026-03-23 - Improved Pixel Dungeon.
 * [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,939 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
-* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,813 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-14 - Gamify your life.
+* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,813 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-15 - Gamify your life.
 
 ### Web
 
@@ -250,9 +250,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Gym OpenAI](https://github.com/openai/gym) ⚠️ Archived - Game toolkit for reinforcement learning algorithms.
 * [Games on GitHub](https://github.com/leereilly/games) ⚠️ Archived - Popular videos games hosted in GitHub.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,097 | 🐛 12 | 📅 2026-07-07 - Collection of open-source games.
-* [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,139 | 🐛 6 | 📅 2026-03-25 - Games to teach programming language.
-* [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,468 | 🐛 2 | 📅 2026-07-15 - Technologies related to anime, comic and games.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,100 | 🐛 12 | 📅 2026-07-07 - Collection of open-source games.
+* [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,140 | 🐛 6 | 📅 2026-03-25 - Games to teach programming language.
+* [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,467 | 🐛 2 | 📅 2026-07-15 - Technologies related to anime, comic and games.
 * [Awesome Esports](https://github.com/strift/awesome-esports) ⭐ 106 | 🐛 2 | 📅 2025-06-10 - Competitiosn using video games.
 * [datasets-games](https://github.com/cncplyr/datasets-games) ⭐ 14 | 🐛 0 | 📅 2026-06-10 - Datasets from a variety of games.
 * [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
@@ -275,4 +275,4 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
