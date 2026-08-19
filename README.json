@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4468786,
             "language": "JavaScript",
             "last_commit": "2017-07-11T13:53:57Z",
             "owner": "TheGamesDB",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71297857,
             "language": "Python",
             "last_commit": "2022-11-11T10:47:16Z",
             "owner": "GregorUT",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167539878,
             "language": "JavaScript",
             "last_commit": "2019-05-06T19:00:04Z",
             "owner": "leomaurodesenv",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102003645,
             "language": "JavaScript",
             "last_commit": "2026-02-21T16:31:45Z",
             "owner": "leomaurodesenv",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100491845,
             "language": "JavaScript",
             "last_commit": "2023-04-20T23:38:34Z",
             "owner": "leomaurodesenv",
@@ -80,24 +85,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 455370501,
             "language": null,
             "last_commit": "2022-02-04T00:06:29Z",
             "owner": "pnxenopoulos",
             "repo": "csgo",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Steam Spy",
-          "description": "Game statistical from Steam users profiles.",
-          "children": []
         }
       ],
       "title": "API"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -106,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 59032201,
             "language": "Java",
             "last_commit": "2025-09-03T13:10:21Z",
             "owner": "microsoft",
@@ -120,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 120541397,
             "language": "C",
             "last_commit": "2024-02-22T13:04:14Z",
             "owner": "openai",
@@ -134,11 +136,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23038334,
             "language": "C++",
-            "last_commit": "2026-08-18T05:45:38Z",
+            "last_commit": "2026-08-18T17:48:37Z",
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 2957
+            "stars": 2961
           }
         },
         {
@@ -148,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38127500,
             "language": "C++",
             "last_commit": "2026-08-13T04:24:18Z",
             "owner": "Farama-Foundation",
@@ -162,11 +166,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313767611,
             "language": "Jupyter Notebook",
             "last_commit": "2026-04-21T18:27:39Z",
             "owner": "microsoft",
             "repo": "CyberBattleSim",
-            "stars": 1784
+            "stars": 1783
           }
         },
         {
@@ -176,11 +181,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141907764,
             "language": "C",
             "last_commit": "2026-04-09T15:58:04Z",
             "owner": "klaussilveira",
             "repo": "qengine",
-            "stars": 885
+            "stars": 886
           }
         },
         {
@@ -190,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46502582,
             "language": "C",
             "last_commit": "2026-06-29T13:58:59Z",
             "owner": "Wargus",
@@ -204,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32093734,
             "language": "Java",
             "last_commit": "2025-08-11T20:18:57Z",
             "owner": "Farama-Foundation",
@@ -218,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30425490,
             "language": "C++",
             "last_commit": "2025-09-21T12:20:13Z",
             "owner": "polyworld",
@@ -232,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56877224,
             "language": "Java",
             "last_commit": "2018-07-27T09:01:27Z",
             "owner": "Atkrye",
@@ -246,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93242409,
             "language": "Processing",
             "last_commit": "2018-02-08T06:49:27Z",
             "owner": "sentientdesigns",
@@ -260,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102509021,
             "language": "C#",
             "last_commit": "2019-07-26T18:56:32Z",
             "owner": "mguzdial3",
@@ -274,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83477587,
             "language": "JavaScript",
             "last_commit": "2018-01-18T02:31:02Z",
             "owner": "scotchkorean27",
@@ -288,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93642864,
             "language": "Java",
             "last_commit": "2017-06-07T14:15:02Z",
             "owner": "sentientdesigns",
@@ -302,142 +316,153 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175475816,
             "language": "JavaScript",
             "last_commit": "2019-03-05T00:04:08Z",
             "owner": "leomaurodesenv",
             "repo": "vindinium",
             "stars": 0
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shattered Pixel Dungeon",
+              "description": "Improved Pixel Dungeon.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22486533,
+                "language": "Java",
+                "last_commit": "2026-08-15T14:52:52Z",
+                "owner": "00-Evan",
+                "repo": "shattered-pixel-dungeon",
+                "stars": 6440
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pixel Dungeon",
+              "description": "Roguelike game.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22292230,
+                "language": "Java",
+                "last_commit": "2019-07-23T09:09:27Z",
+                "owner": "watabou",
+                "repo": "pixel-dungeon",
+                "stars": 3939
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Habitica",
+              "description": "Gamify your life.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31075682,
+                "language": "Kotlin",
+                "last_commit": "2026-08-18T18:49:01Z",
+                "owner": "HabitRPG",
+                "repo": "habitica-android",
+                "stars": 1815
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mobile"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Duck Hunt",
+              "description": "Shooting game in ducks. Play.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2594863,
+                "language": "JavaScript",
+                "last_commit": "2026-06-30T01:31:15Z",
+                "owner": "MattSurabian",
+                "repo": "DuckHunt-JS",
+                "stars": 630
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Infinite Mario Bros",
+              "description": "Super Mario Bros. Play.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1843019,
+                "language": "JavaScript",
+                "last_commit": "2022-12-06T14:57:34Z",
+                "owner": "robertkleffner",
+                "repo": "mariohtml5",
+                "stars": 525
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Onslaught! Arena",
+              "description": "Fight off hordes of medieval monsters. Play.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 760274,
+                "language": "JavaScript",
+                "last_commit": "2017-04-04T06:40:47Z",
+                "owner": "lostdecade",
+                "repo": "onslaught_arena",
+                "stars": 203
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Digger",
+              "description": "Boulderdash game.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1131408,
+                "language": "HTML",
+                "last_commit": "2024-02-12T20:52:47Z",
+                "owner": "lutzroeder",
+                "repo": "digger",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TapAI",
+              "description": "User interactions with a tap on screen game.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87865657,
+                "language": "HTML",
+                "last_commit": "2019-02-09T20:32:16Z",
+                "owner": "leomaurodesenv",
+                "repo": "TapAI",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web"
         }
       ],
       "title": "Artificial Intelligence"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Shattered Pixel Dungeon",
-          "description": "Improved Pixel Dungeon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-15T14:52:52Z",
-            "owner": "00-Evan",
-            "repo": "shattered-pixel-dungeon",
-            "stars": 6434
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pixel Dungeon",
-          "description": "Roguelike game.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-07-23T09:09:27Z",
-            "owner": "watabou",
-            "repo": "pixel-dungeon",
-            "stars": 3939
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Habitica",
-          "description": "Gamify your life.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-16T15:46:23Z",
-            "owner": "HabitRPG",
-            "repo": "habitica-android",
-            "stars": 1813
-          }
-        }
-      ],
-      "title": "Mobile"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Duck Hunt",
-          "description": "Shooting game in ducks. Play.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-30T01:31:15Z",
-            "owner": "MattSurabian",
-            "repo": "DuckHunt-JS",
-            "stars": 630
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Infinite Mario Bros",
-          "description": "Super Mario Bros. Play.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-06T14:57:34Z",
-            "owner": "robertkleffner",
-            "repo": "mariohtml5",
-            "stars": 525
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Onslaught! Arena",
-          "description": "Fight off hordes of medieval monsters. Play.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-04-04T06:40:47Z",
-            "owner": "lostdecade",
-            "repo": "onslaught_arena",
-            "stars": 203
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Digger",
-          "description": "Boulderdash game.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HTML",
-            "last_commit": "2024-02-12T20:52:47Z",
-            "owner": "lutzroeder",
-            "repo": "digger",
-            "stars": 95
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TapAI",
-          "description": "User interactions with a tap on screen game.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2019-02-09T20:32:16Z",
-            "owner": "leomaurodesenv",
-            "repo": "TapAI",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Web"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -446,6 +471,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 90778969,
             "language": null,
             "last_commit": "2025-03-11T00:12:28Z",
             "owner": "googlecreativelab",
@@ -460,6 +486,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 99257169,
             "language": "Python",
             "last_commit": "2021-08-30T19:19:29Z",
             "owner": "TorchCraft",
@@ -474,6 +501,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108848070,
             "language": "Python",
             "last_commit": "2022-06-07T23:30:11Z",
             "owner": "oscarmcnulty",
@@ -488,6 +516,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63526881,
             "language": null,
             "last_commit": "2017-01-28T11:17:07Z",
             "owner": "Biuni",
@@ -502,6 +531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166397044,
             "language": "R",
             "last_commit": "2022-08-24T01:47:44Z",
             "owner": "oganm",
@@ -516,6 +546,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23146544,
             "language": null,
             "last_commit": "2021-11-17T07:32:46Z",
             "owner": "cheahjs",
@@ -530,6 +561,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 333043420,
             "language": null,
             "last_commit": "2025-05-08T13:31:54Z",
             "owner": "NabajeetBarman",
@@ -544,52 +576,56 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136416359,
             "language": null,
             "last_commit": "2019-01-26T13:25:10Z",
             "owner": "onzie9",
             "repo": "Quackle_Self_Play",
             "stars": 1
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Steam Review Datasets",
+              "description": "Steam user reviews.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44945711,
+                "language": null,
+                "last_commit": "2015-11-17T04:51:05Z",
+                "owner": "mulhod",
+                "repo": "steam_reviews",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Steam Game Data",
+              "description": "Combination of Steam API and Steam Spy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68024190,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-01-13T01:25:11Z",
+                "owner": "CraigKelly",
+                "repo": "steam-data",
+                "stars": 32
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Related"
         }
       ],
       "title": "Dataset"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Steam Review Datasets",
-          "description": "Steam user reviews.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2015-11-17T04:51:05Z",
-            "owner": "mulhod",
-            "repo": "steam_reviews",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Steam Game Data",
-          "description": "Combination of Steam API and Steam Spy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2017-01-13T01:25:11Z",
-            "owner": "CraigKelly",
-            "repo": "steam-data",
-            "stars": 32
-          }
-        }
-      ],
-      "title": "Related"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -598,11 +634,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 57222302,
             "language": "Python",
             "last_commit": "2026-03-26T23:13:27Z",
             "owner": "openai",
             "repo": "gym",
-            "stars": 37238
+            "stars": 37240
           }
         },
         {
@@ -612,11 +649,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 3112748,
             "language": null,
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24934
+            "stars": 24935
           }
         },
         {
@@ -626,11 +664,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41116605,
             "language": null,
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3102
+            "stars": 3105
           }
         },
         {
@@ -640,6 +679,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80900906,
             "language": null,
             "last_commit": "2026-03-25T03:16:25Z",
             "owner": "michelpereira",
@@ -654,11 +694,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55614000,
             "language": null,
             "last_commit": "2026-07-15T06:46:27Z",
             "owner": "soruly",
             "repo": "awesome-acg",
-            "stars": 1467
+            "stars": 1468
           }
         },
         {
@@ -668,6 +709,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 412132952,
             "language": null,
             "last_commit": "2025-06-10T12:03:15Z",
             "owner": "Strift",
@@ -682,6 +724,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19551283,
             "language": null,
             "last_commit": "2026-06-10T13:22:28Z",
             "owner": "cncplyr",
@@ -694,7 +737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:03:42.951Z",
+    "last_updated": "2026-08-19T11:03:28.406Z",
     "original_repository": "leomaurodesenv/game-datasets",
     "original_repository_sha": "f2a3348ef0895fbed20b1fad2ef760b78292bb13",
     "enhanced_repository": "enhansome/enhansome-game-datasets",
