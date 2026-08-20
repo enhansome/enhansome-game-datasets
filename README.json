@@ -138,7 +138,7 @@
             "archived": false,
             "id": 23038334,
             "language": "C++",
-            "last_commit": "2026-08-18T17:48:37Z",
+            "last_commit": "2026-08-19T17:04:51Z",
             "owner": "crawl",
             "repo": "crawl",
             "stars": 2961
@@ -216,7 +216,7 @@
             "last_commit": "2025-08-11T20:18:57Z",
             "owner": "Farama-Foundation",
             "repo": "MicroRTS",
-            "stars": 359
+            "stars": 360
           }
         },
         {
@@ -338,7 +338,7 @@
                 "last_commit": "2026-08-15T14:52:52Z",
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6440
+                "stars": 6445
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2019-07-23T09:09:27Z",
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3939
+                "stars": 3940
               }
             },
             {
@@ -365,10 +365,10 @@
                 "archived": false,
                 "id": 31075682,
                 "language": "Kotlin",
-                "last_commit": "2026-08-18T18:49:01Z",
+                "last_commit": "2026-08-19T22:59:00Z",
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
-                "stars": 1815
+                "stars": 1816
               }
             }
           ],
@@ -476,7 +476,7 @@
             "last_commit": "2025-03-11T00:12:28Z",
             "owner": "googlecreativelab",
             "repo": "quickdraw-dataset",
-            "stars": 6802
+            "stars": 6803
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24935
+            "stars": 24936
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3105
+            "stars": 3106
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2026-03-25T03:16:25Z",
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
-            "stars": 2140
+            "stars": 2141
           }
         },
         {
@@ -714,7 +714,7 @@
             "last_commit": "2025-06-10T12:03:15Z",
             "owner": "Strift",
             "repo": "awesome-esports",
-            "stars": 106
+            "stars": 105
           }
         },
         {
@@ -737,7 +737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:30:23.533Z",
+    "last_updated": "2026-08-20T11:04:48.027Z",
     "original_repository": "leomaurodesenv/game-datasets",
     "original_repository_id": 151342385,
     "original_repository_sha": "f2a3348ef0895fbed20b1fad2ef760b78292bb13",
