@@ -111,7 +111,7 @@
             "last_commit": "2025-09-03T13:10:21Z",
             "owner": "microsoft",
             "repo": "malmo",
-            "stars": 4270
+            "stars": 4271
           }
         },
         {
@@ -138,10 +138,10 @@
             "archived": false,
             "id": 23038334,
             "language": "C++",
-            "last_commit": "2026-08-21T00:39:07Z",
+            "last_commit": "2026-08-22T01:57:28Z",
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 2963
+            "stars": 2964
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-21T07:29:58Z",
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2060
+            "stars": 2062
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-21T10:51:29Z",
             "owner": "klaussilveira",
             "repo": "qengine",
-            "stars": 886
+            "stars": 887
           }
         },
         {
@@ -338,7 +338,7 @@
                 "last_commit": "2026-08-15T14:52:52Z",
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6450
+                "stars": 6453
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2019-07-23T09:09:27Z",
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3941
+                "stars": 3942
               }
             },
             {
@@ -365,7 +365,7 @@
                 "archived": false,
                 "id": 31075682,
                 "language": "Kotlin",
-                "last_commit": "2026-08-20T15:39:32Z",
+                "last_commit": "2026-08-21T21:36:12Z",
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
                 "stars": 1817
@@ -476,7 +476,7 @@
             "last_commit": "2025-03-11T00:12:28Z",
             "owner": "googlecreativelab",
             "repo": "quickdraw-dataset",
-            "stars": 6802
+            "stars": 6803
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-03-26T23:13:27Z",
             "owner": "openai",
             "repo": "gym",
-            "stars": 37240
+            "stars": 37246
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24936
+            "stars": 24939
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2026-03-25T03:16:25Z",
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
-            "stars": 2142
+            "stars": 2143
           }
         },
         {
@@ -737,7 +737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:04:33.001Z",
+    "last_updated": "2026-08-22T11:00:33.557Z",
     "original_repository": "leomaurodesenv/game-datasets",
     "original_repository_id": 151342385,
     "original_repository_sha": "f2a3348ef0895fbed20b1fad2ef760b78292bb13",
