@@ -138,7 +138,7 @@
             "archived": false,
             "id": 23038334,
             "language": "C++",
-            "last_commit": "2026-08-23T02:13:11Z",
+            "last_commit": "2026-08-24T08:11:18Z",
             "owner": "crawl",
             "repo": "crawl",
             "stars": 2965
@@ -338,7 +338,7 @@
                 "last_commit": "2026-08-15T14:52:52Z",
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6458
+                "stars": 6462
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2019-07-23T09:09:27Z",
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3943
+                "stars": 3944
               }
             },
             {
@@ -476,7 +476,7 @@
             "last_commit": "2025-03-11T00:12:28Z",
             "owner": "googlecreativelab",
             "repo": "quickdraw-dataset",
-            "stars": 6802
+            "stars": 6801
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-03-26T23:13:27Z",
             "owner": "openai",
             "repo": "gym",
-            "stars": 37248
+            "stars": 37250
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24941
+            "stars": 24942
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3108
+            "stars": 3109
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2026-03-25T03:16:25Z",
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
-            "stars": 2144
+            "stars": 2145
           }
         },
         {
@@ -737,7 +737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:00:40.228Z",
+    "last_updated": "2026-08-24T11:12:34.585Z",
     "original_repository": "leomaurodesenv/game-datasets",
     "original_repository_id": 151342385,
     "original_repository_sha": "f2a3348ef0895fbed20b1fad2ef760b78292bb13",
