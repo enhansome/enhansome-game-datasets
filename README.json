@@ -111,7 +111,7 @@
             "last_commit": "2025-09-03T13:10:21Z",
             "owner": "microsoft",
             "repo": "malmo",
-            "stars": 4271
+            "stars": 4270
           }
         },
         {
@@ -353,7 +353,7 @@
                 "last_commit": "2019-07-23T09:09:27Z",
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3945
+                "stars": 3944
               }
             },
             {
@@ -365,7 +365,7 @@
                 "archived": false,
                 "id": 31075682,
                 "language": "Kotlin",
-                "last_commit": "2026-08-23T05:19:31Z",
+                "last_commit": "2026-08-25T08:50:02Z",
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
                 "stars": 1816
@@ -669,7 +669,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3110
+            "stars": 3111
           }
         },
         {
@@ -737,7 +737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:05:40.490Z",
+    "last_updated": "2026-08-25T11:06:50.143Z",
     "original_repository": "leomaurodesenv/game-datasets",
     "original_repository_id": 151342385,
     "original_repository_sha": "f2a3348ef0895fbed20b1fad2ef760b78292bb13",
