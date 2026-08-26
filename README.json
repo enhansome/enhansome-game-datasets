@@ -138,7 +138,7 @@
             "archived": false,
             "id": 23038334,
             "language": "C++",
-            "last_commit": "2026-08-24T12:44:11Z",
+            "last_commit": "2026-08-26T08:14:52Z",
             "owner": "crawl",
             "repo": "crawl",
             "stars": 2965
@@ -168,10 +168,10 @@
             "archived": false,
             "id": 313767611,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T04:18:46Z",
+            "last_commit": "2026-08-25T16:14:21Z",
             "owner": "microsoft",
             "repo": "CyberBattleSim",
-            "stars": 1785
+            "stars": 1784
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-24T23:41:08Z",
             "owner": "klaussilveira",
             "repo": "qengine",
-            "stars": 889
+            "stars": 890
           }
         },
         {
@@ -365,7 +365,7 @@
                 "archived": false,
                 "id": 31075682,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T08:50:02Z",
+                "last_commit": "2026-08-25T19:34:43Z",
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
                 "stars": 1816
@@ -521,7 +521,7 @@
             "last_commit": "2017-01-28T11:17:07Z",
             "owner": "Biuni",
             "repo": "PokemonGO-Pokedex",
-            "stars": 133
+            "stars": 134
           }
         },
         {
@@ -666,10 +666,10 @@
             "archived": false,
             "id": 41116605,
             "language": null,
-            "last_commit": "2026-07-07T19:10:59Z",
+            "last_commit": "2026-08-25T18:12:52Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3111
+            "stars": 3112
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2026-03-25T03:16:25Z",
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
-            "stars": 2146
+            "stars": 2147
           }
         },
         {
@@ -737,7 +737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:06:50.143Z",
+    "last_updated": "2026-08-26T11:13:10.589Z",
     "original_repository": "leomaurodesenv/game-datasets",
     "original_repository_id": 151342385,
     "original_repository_sha": "f2a3348ef0895fbed20b1fad2ef760b78292bb13",
