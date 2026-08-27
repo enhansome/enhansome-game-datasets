@@ -138,7 +138,7 @@
             "archived": false,
             "id": 23038334,
             "language": "C++",
-            "last_commit": "2026-08-26T19:08:55Z",
+            "last_commit": "2026-08-27T18:24:57Z",
             "owner": "crawl",
             "repo": "crawl",
             "stars": 2965
@@ -201,7 +201,7 @@
             "last_commit": "2026-06-29T13:58:59Z",
             "owner": "Wargus",
             "repo": "wargus",
-            "stars": 428
+            "stars": 429
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24944
+            "stars": 24942
           }
         },
         {
@@ -737,7 +737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:42:24.962Z",
+    "last_updated": "2026-08-27T20:47:17.110Z",
     "original_repository_info": {
       "archived": false,
       "id": 151342385,
