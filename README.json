@@ -16,7 +16,8 @@
             "owner": "TheGamesDB",
             "repo": "TheGamesDB",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "GregorUT",
             "repo": "vgchartzScrape",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "leomaurodesenv",
             "repo": "smm-course-viewer",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "leomaurodesenv",
             "repo": "smm-course-search",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "leomaurodesenv",
             "repo": "smm-maker-profile",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "pnxenopoulos",
             "repo": "csgo",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         }
       ],
       "title": "API"
@@ -112,7 +118,8 @@
             "owner": "microsoft",
             "repo": "malmo",
             "stars": 4270
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "openai",
             "repo": "retro",
             "stars": 3584
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -138,11 +146,12 @@
             "archived": false,
             "id": 23038334,
             "language": "C++",
-            "last_commit": "2026-08-27T18:24:57Z",
+            "last_commit": "2026-08-28T17:50:25Z",
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 2965
-          }
+            "stars": 2967
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
             "stars": 2064
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -171,8 +181,9 @@
             "last_commit": "2026-08-25T16:14:21Z",
             "owner": "microsoft",
             "repo": "CyberBattleSim",
-            "stars": 1785
-          }
+            "stars": 1786
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "klaussilveira",
             "repo": "qengine",
             "stars": 890
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -201,8 +213,9 @@
             "last_commit": "2026-06-29T13:58:59Z",
             "owner": "Wargus",
             "repo": "wargus",
-            "stars": 429
-          }
+            "stars": 430
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "Farama-Foundation",
             "repo": "MicroRTS",
             "stars": 360
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "polyworld",
             "repo": "polyworld",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "Atkrye",
             "repo": "IEEE-CIG-Text-Adventurer-Competition",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "sentientdesigns",
             "repo": "constructive",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "mguzdial3",
             "repo": "Morai-Maker-Engine",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "scotchkorean27",
             "repo": "showdownaiclient",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "sentientdesigns",
             "repo": "minidungeons",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "leomaurodesenv",
             "repo": "vindinium",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "children": [
@@ -339,7 +360,8 @@
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
                 "stars": 6465
-              }
+              },
+              "first_seen": "2026-08-28T21:15:23.184Z"
             },
             {
               "node_type": "item",
@@ -353,8 +375,9 @@
                 "last_commit": "2019-07-23T09:09:27Z",
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3945
-              }
+                "stars": 3947
+              },
+              "first_seen": "2026-08-28T21:15:23.184Z"
             },
             {
               "node_type": "item",
@@ -369,7 +392,8 @@
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
                 "stars": 1817
-              }
+              },
+              "first_seen": "2026-08-28T21:15:23.184Z"
             }
           ],
           "description": null,
@@ -391,7 +415,8 @@
                 "owner": "MattSurabian",
                 "repo": "DuckHunt-JS",
                 "stars": 630
-              }
+              },
+              "first_seen": "2026-08-28T21:15:23.184Z"
             },
             {
               "node_type": "item",
@@ -406,7 +431,8 @@
                 "owner": "robertkleffner",
                 "repo": "mariohtml5",
                 "stars": 525
-              }
+              },
+              "first_seen": "2026-08-28T21:15:23.184Z"
             },
             {
               "node_type": "item",
@@ -421,7 +447,8 @@
                 "owner": "lostdecade",
                 "repo": "onslaught_arena",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-28T21:15:23.184Z"
             },
             {
               "node_type": "item",
@@ -436,7 +463,8 @@
                 "owner": "lutzroeder",
                 "repo": "digger",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T21:15:23.184Z"
             },
             {
               "node_type": "item",
@@ -451,7 +479,8 @@
                 "owner": "leomaurodesenv",
                 "repo": "TapAI",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:15:23.184Z"
             }
           ],
           "description": null,
@@ -477,7 +506,8 @@
             "owner": "googlecreativelab",
             "repo": "quickdraw-dataset",
             "stars": 6801
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -492,7 +522,8 @@
             "owner": "TorchCraft",
             "repo": "StarData",
             "stars": 574
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -507,7 +538,8 @@
             "owner": "oscarmcnulty",
             "repo": "gta-3d-dataset",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -522,7 +554,8 @@
             "owner": "Biuni",
             "repo": "PokemonGO-Pokedex",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -537,7 +570,8 @@
             "owner": "oganm",
             "repo": "dnddata",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -552,7 +586,8 @@
             "owner": "cheahjs",
             "repo": "bravefrontier_data",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -567,7 +602,8 @@
             "owner": "NabajeetBarman",
             "repo": "GamingHDRVideoSET",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -582,7 +618,8 @@
             "owner": "onzie9",
             "repo": "Quackle_Self_Play",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "children": [
@@ -599,7 +636,8 @@
                 "owner": "mulhod",
                 "repo": "steam_reviews",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T21:15:23.184Z"
             },
             {
               "node_type": "item",
@@ -614,7 +652,8 @@
                 "owner": "CraigKelly",
                 "repo": "steam-data",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T21:15:23.184Z"
             }
           ],
           "description": null,
@@ -639,8 +678,9 @@
             "last_commit": "2026-03-26T23:13:27Z",
             "owner": "openai",
             "repo": "gym",
-            "stars": 37248
-          }
+            "stars": 37246
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -654,8 +694,9 @@
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24942
-          }
+            "stars": 24943
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -669,8 +710,9 @@
             "last_commit": "2026-08-25T18:12:52Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3114
-          }
+            "stars": 3115
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -685,7 +727,8 @@
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
             "stars": 2149
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -699,8 +742,9 @@
             "last_commit": "2026-07-15T06:46:27Z",
             "owner": "soruly",
             "repo": "awesome-acg",
-            "stars": 1469
-          }
+            "stars": 1470
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -715,7 +759,8 @@
             "owner": "Strift",
             "repo": "awesome-esports",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
           "node_type": "item",
@@ -730,14 +775,15 @@
             "owner": "cncplyr",
             "repo": "datasets-games",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:15:23.184Z"
         }
       ],
       "title": "Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:47:17.110Z",
+    "last_updated": "2026-08-28T21:15:23.184Z",
     "original_repository_info": {
       "archived": false,
       "id": 151342385,
