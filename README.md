@@ -68,7 +68,7 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Malmo](https://github.com/Microsoft/malmo) ⚠️ Archived - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 * [Retro Contest](https://github.com/openai/retro) ⚠️ Archived - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
-* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,967 | 🐛 443 | 🌐 C++ | 📅 2026-08-28 - Roguelike adventure.
+* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,968 | 🐛 444 | 🌐 C++ | 📅 2026-08-28 - Roguelike adventure.
 * [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 2,064 | 🐛 39 | 🌐 C++ | 📅 2026-08-21 - Doom game competition.
 * [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,786 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-08-25 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 * [qengine](https://github.com/klaussilveira/qengine) ⭐ 890 | 🐛 5 | 🌐 C | 📅 2026-08-24 - Retro game engine.
@@ -250,7 +250,7 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Gym OpenAI](https://github.com/openai/gym) ⚠️ Archived - Game toolkit for reinforcement learning algorithms.
 * [Games on GitHub](https://github.com/leereilly/games) ⚠️ Archived - Popular videos games hosted in GitHub.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,115 | 🐛 15 | 📅 2026-08-25 - Collection of open-source games.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,116 | 🐛 16 | 📅 2026-08-25 - Collection of open-source games.
 * [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,149 | 🐛 6 | 📅 2026-03-25 - Games to teach programming language.
 * [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,470 | 🐛 2 | 📅 2026-07-15 - Technologies related to anime, comic and games.
 * [Awesome Esports](https://github.com/strift/awesome-esports) ⭐ 105 | 🐛 2 | 📅 2025-06-10 - Competitiosn using video games.
@@ -275,4 +275,4 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

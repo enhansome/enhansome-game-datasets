@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TheGamesDB.net Repository - An open, online database for video game fans.",
+            "homepage": "http://thegamesdb.net",
             "id": 4468786,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-07-11T13:53:57Z",
+            "open_issues": 81,
             "owner": "TheGamesDB",
             "repo": "TheGamesDB",
-            "stars": 137
+            "stars": 137,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scrapy project for data capture of vgchartz",
+            "homepage": null,
             "id": 71297857,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-11T10:47:16Z",
+            "open_issues": 6,
             "owner": "GregorUT",
             "repo": "vgchartzScrape",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -42,12 +52,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package for reading courses (*.cdt) from Super Mario Maker game",
+            "homepage": "https://www.npmjs.com/package/smm-course-viewer",
             "id": 167539878,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2019-05-06T19:00:04Z",
+            "open_issues": 1,
             "owner": "leomaurodesenv",
             "repo": "smm-course-viewer",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "cdt",
+              "javascript",
+              "json",
+              "mario-game",
+              "mario-maker",
+              "nodejs",
+              "viewer"
+            ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -58,12 +81,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package to searching courses - Super Mario Maker",
+            "homepage": "https://www.npmjs.com/package/smm-course-search",
             "id": 102003645,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-21T16:31:45Z",
+            "open_issues": 1,
             "owner": "leomaurodesenv",
             "repo": "smm-course-search",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "bookmark-site",
+              "crawler",
+              "javascript",
+              "json",
+              "mario-game",
+              "mario-maker",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -74,12 +110,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package to fetching the maker profile - Super Mario Maker",
+            "homepage": "https://www.npmjs.com/package/smm-maker-profile",
             "id": 100491845,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-04-20T23:38:34Z",
+            "open_issues": 0,
             "owner": "leomaurodesenv",
             "repo": "smm-maker-profile",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "crawler",
+              "javascript",
+              "json",
+              "mario-maker",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -90,12 +137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Now called awpy. ",
+            "homepage": null,
             "id": 455370501,
             "language": null,
+            "license": null,
             "last_commit": "2022-02-04T00:06:29Z",
+            "open_issues": 0,
             "owner": "pnxenopoulos",
             "repo": "csgo",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         }
@@ -112,12 +164,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to *Getting Started* below, or visit the project page for more information:",
+            "homepage": "https://www.microsoft.com/en-us/research/project/project-malmo/",
             "id": 59032201,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-09-03T13:10:21Z",
+            "open_issues": 171,
             "owner": "microsoft",
             "repo": "malmo",
-            "stars": 4270
+            "stars": 4270,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -128,12 +185,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Retro Games in Gym",
+            "homepage": null,
             "id": 120541397,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-02-22T13:04:14Z",
+            "open_issues": 62,
             "owner": "openai",
             "repo": "retro",
-            "stars": 3584
+            "stars": 3584,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -144,12 +206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dungeon Crawl: Stone Soup official repository",
+            "homepage": "https://crawl.develz.org/",
             "id": 23038334,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:50:25Z",
+            "open_issues": 444,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 2967
+            "stars": 2968,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -160,12 +227,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reinforcement Learning environments based on the 1993 game Doom :godmode:",
+            "homepage": "https://vizdoom.farama.org/",
             "id": 38127500,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-21T07:29:58Z",
+            "open_issues": 39,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2064
+            "stars": 2064,
+            "topics": [
+              "deep-learning",
+              "doom",
+              "examples",
+              "gymnasium",
+              "gymnasium-environment",
+              "python",
+              "reinforcement-learning",
+              "vizdoom"
+            ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -176,12 +257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments.",
+            "homepage": null,
             "id": 313767611,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-25T16:14:21Z",
+            "open_issues": 12,
             "owner": "microsoft",
             "repo": "CyberBattleSim",
-            "stars": 1786
+            "stars": 1786,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -192,12 +278,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Retro game engine for creating games like it's 1997",
+            "homepage": null,
             "id": 141907764,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-24T23:41:08Z",
+            "open_issues": 5,
             "owner": "klaussilveira",
             "repo": "qengine",
-            "stars": 890
+            "stars": 890,
+            "topics": [
+              "3d-engine",
+              "3d-game",
+              "fps",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "linux"
+            ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -208,12 +307,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Importer and scripts for Warcraft II: Tides of Darkness, the expansion Beyond the Dark Portal, and Aleonas Tales",
+            "homepage": null,
             "id": 46502582,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-06-29T13:58:59Z",
+            "open_issues": 61,
             "owner": "Wargus",
             "repo": "wargus",
-            "stars": 430
+            "stars": 430,
+            "topics": [
+              "help-wanted"
+            ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -224,12 +330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and highly efficient RTS-game-inspired environment for reinforcement learning",
+            "homepage": null,
             "id": 32093734,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2025-08-11T20:18:57Z",
+            "open_issues": 4,
             "owner": "Farama-Foundation",
             "repo": "MicroRTS",
-            "stars": 360
+            "stars": 360,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -240,12 +351,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Artificial Life system designed as an approach to Artificial Intelligence",
+            "homepage": null,
             "id": 30425490,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-21T12:20:13Z",
+            "open_issues": 3,
             "owner": "polyworld",
             "repo": "polyworld",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -256,12 +372,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for the IEEE CIG text adventurer competition.",
+            "homepage": "http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/",
             "id": 56877224,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-07-27T09:01:27Z",
+            "open_issues": 3,
             "owner": "Atkrye",
             "repo": "IEEE-CIG-Text-Adventurer-Competition",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -272,12 +393,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Constructive Generation Methods for Dungeons and Levels",
+            "homepage": null,
             "id": 93242409,
             "language": "Processing",
+            "license": null,
             "last_commit": "2018-02-08T06:49:27Z",
+            "open_issues": 0,
             "owner": "sentientdesigns",
             "repo": "constructive",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -288,12 +414,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cooperative game level editor.",
+            "homepage": null,
             "id": 102509021,
             "language": "C#",
+            "license": null,
             "last_commit": "2019-07-26T18:56:32Z",
+            "open_issues": 0,
             "owner": "mguzdial3",
             "repo": "Morai-Maker-Engine",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -304,12 +435,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 83477587,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-01-18T02:31:02Z",
+            "open_issues": 2,
             "owner": "scotchkorean27",
             "repo": "showdownaiclient",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -320,12 +456,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MiniDungeons is a simple turn-based roguelike puzzle game, implemented as a benchmark problem for modeling decision-making styles of human players.",
+            "homepage": "http://antoniosliapis.com/projects.php#minidungeons",
             "id": 93642864,
             "language": "Java",
+            "license": null,
             "last_commit": "2017-06-07T14:15:02Z",
+            "open_issues": 0,
             "owner": "sentientdesigns",
             "repo": "minidungeons",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -336,12 +477,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Artificial Intelligence Challenge - scala game server",
+            "homepage": null,
             "id": 175475816,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-03-05T00:04:08Z",
+            "open_issues": 0,
             "owner": "leomaurodesenv",
             "repo": "vindinium",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -354,12 +500,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
+                "homepage": "https://shatteredpixel.com/shatteredpd/",
                 "id": 22486533,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-15T14:52:52Z",
+                "open_issues": 11,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6465
+                "stars": 6465,
+                "topics": [
+                  "android",
+                  "game",
+                  "game-development",
+                  "ios",
+                  "java",
+                  "libgdx"
+                ]
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
             },
@@ -370,12 +528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Traditional roguelike game with pixel-art graphics and simple interface",
+                "homepage": null,
                 "id": 22292230,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2019-07-23T09:09:27Z",
+                "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3947
+                "stars": 3947,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
             },
@@ -386,12 +549,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native Android app for Habitica",
+                "homepage": null,
                 "id": 31075682,
                 "language": "Kotlin",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T01:13:46Z",
+                "open_issues": 9,
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
-                "stars": 1817
+                "stars": 1817,
+                "topics": [
+                  "android",
+                  "android-studio",
+                  "coroutines",
+                  "habitica",
+                  "hacktoberfest",
+                  "java",
+                  "kotlin",
+                  "kotlin-android",
+                  "realm",
+                  "wearable",
+                  "wearos"
+                ]
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
             }
@@ -409,12 +589,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DuckHunt ported to JS and HTML5",
+                "homepage": "https://duckhuntjs.com",
                 "id": 2594863,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-30T01:31:15Z",
+                "open_issues": 14,
                 "owner": "MattSurabian",
                 "repo": "DuckHunt-JS",
-                "stars": 630
+                "stars": 630,
+                "topics": [
+                  "audio",
+                  "canvas",
+                  "duck-hunt",
+                  "game",
+                  "gsap",
+                  "javascript",
+                  "pixijs",
+                  "tweening",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
             },
@@ -425,12 +620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Infinite Mario in HTML5 JavaScript - using Canvas and Audio elements",
+                "homepage": null,
                 "id": 1843019,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2022-12-06T14:57:34Z",
+                "open_issues": 18,
                 "owner": "robertkleffner",
                 "repo": "mariohtml5",
-                "stars": 525
+                "stars": 525,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
             },
@@ -441,12 +641,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fight off hordes of classic medieval monsters in this fast paced arcade shooter!",
+                "homepage": "http://arcade.lostdecadegames.com/onslaught_arena/",
                 "id": 760274,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-04-04T06:40:47Z",
+                "open_issues": 3,
                 "owner": "lostdecade",
                 "repo": "onslaught_arena",
-                "stars": 203
+                "stars": 203,
+                "topics": [
+                  "html5-game"
+                ]
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
             },
@@ -457,12 +664,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Digger in HTML5 and JavaScript",
+                "homepage": "https://www.lutzroeder.com/projects",
                 "id": 1131408,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2024-02-12T20:52:47Z",
+                "open_issues": 0,
                 "owner": "lutzroeder",
                 "repo": "digger",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
             },
@@ -473,12 +685,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Intelligent Quick Reaction Game",
+                "homepage": "http://projects.leonardomauro.com/tapai/",
                 "id": 87865657,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2019-02-09T20:32:16Z",
+                "open_issues": 0,
                 "owner": "leomaurodesenv",
                 "repo": "TapAI",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "game",
+                  "game-website",
+                  "javascript",
+                  "player-modelling",
+                  "reaction-game"
+                ]
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
             }
@@ -500,12 +723,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Documentation on how to access and use the Quick, Draw! Dataset.",
+            "homepage": "https://quickdraw.withgoogle.com/data",
             "id": 90778969,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-03-11T00:12:28Z",
+            "open_issues": 32,
             "owner": "googlecreativelab",
             "repo": "quickdraw-dataset",
-            "stars": 6801
+            "stars": 6801,
+            "topics": [
+              "dataset",
+              "quickdraw-dataset"
+            ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -516,12 +747,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Starcraft AI Research Dataset",
+            "homepage": null,
             "id": 99257169,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-30T19:19:29Z",
+            "open_issues": 2,
             "owner": "TorchCraft",
             "repo": "StarData",
-            "stars": 574
+            "stars": 574,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -532,12 +768,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dataset of 2D imagery, 3D point cloud data, and 3D vehicle bounding box labels all generated using the Grand Theft Auto 5 game engine.",
+            "homepage": null,
             "id": 108848070,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-07T23:30:11Z",
+            "open_issues": 3,
             "owner": "oscarmcnulty",
             "repo": "gta-3d-dataset",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -548,12 +789,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐲 Pokédex of Pokémon GO in JSON.",
+            "homepage": null,
             "id": 63526881,
             "language": null,
+            "license": null,
             "last_commit": "2017-01-28T11:17:07Z",
+            "open_issues": 1,
             "owner": "Biuni",
             "repo": "PokemonGO-Pokedex",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "json",
+              "pokedex",
+              "pokemon"
+            ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -564,12 +814,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dataset of D&D characters submitted to https://oganm.com/shiny/printSheetApp and https://oganm.com/shiny/interactiveSheet. A superset of characters used in oganm/dndstats",
+            "homepage": null,
             "id": 166397044,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2022-08-24T01:47:44Z",
+            "open_issues": 2,
             "owner": "oganm",
             "repo": "dnddata",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "5e",
+              "dnd",
+              "dnd-characters",
+              "dnd5e",
+              "dungeons-and-dragons",
+              "ogan-dnd"
+            ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -580,12 +842,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Holds extracted data for the game Brave Frontier (Global/JP/KR/EU)",
+            "homepage": null,
             "id": 23146544,
             "language": null,
+            "license": null,
             "last_commit": "2021-11-17T07:32:46Z",
+            "open_issues": 2,
             "owner": "cheahjs",
             "repo": "bravefrontier_data",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "bravefrontier",
+              "dataset"
+            ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -596,12 +866,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 333043420,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-08T13:31:54Z",
+            "open_issues": 0,
             "owner": "NabajeetBarman",
             "repo": "GamingHDRVideoSET",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -612,12 +887,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 136416359,
             "language": null,
+            "license": null,
             "last_commit": "2019-01-26T13:25:10Z",
+            "open_issues": 0,
             "owner": "onzie9",
             "repo": "Quackle_Self_Play",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -630,12 +910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Video game review datasets scraped from the Steam website (http://store.steampowered.com/). Data includes review text, number of hours that the reviewer played the game, number of friends, groups, etc.",
+                "homepage": null,
                 "id": 44945711,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2015-11-17T04:51:05Z",
+                "open_issues": 0,
                 "owner": "mulhod",
                 "repo": "steam_reviews",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
             },
@@ -646,12 +931,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple data project for Steam data",
+                "homepage": null,
                 "id": 68024190,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2017-01-13T01:25:11Z",
+                "open_issues": 0,
                 "owner": "CraigKelly",
                 "repo": "steam-data",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "data",
+                  "python",
+                  "steam",
+                  "steam-api",
+                  "steam-data"
+                ]
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
             }
@@ -673,12 +969,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+            "homepage": "https://www.gymlibrary.dev",
             "id": 57222302,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-26T23:13:27Z",
+            "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37246
+            "stars": 37245,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -689,12 +990,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+            "homepage": null,
             "id": 3112748,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-13T20:06:46Z",
+            "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24943
+            "stars": 24943,
+            "topics": [
+              "game",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "games",
+              "html5-games"
+            ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -705,12 +1018,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of free software and free culture resources for making amazing games. (mirror)",
+            "homepage": "https://notabug.org/Calinou/awesome-gamedev",
             "id": 41116605,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
+            "open_issues": 16,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3115
+            "stars": 3116,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "game",
+              "game-development",
+              "game-programming"
+            ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -721,12 +1045,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of games that can teach you how to learn a programming language.",
+            "homepage": null,
             "id": 80900906,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-25T03:16:25Z",
+            "open_issues": 6,
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
-            "stars": 2149
+            "stars": 2149,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "game",
+              "guido-van-robot",
+              "programming-language",
+              "robocode"
+            ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -737,12 +1073,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome technologies related to Anime, Comic and Games",
+            "homepage": null,
             "id": 55614000,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-07-15T06:46:27Z",
+            "open_issues": 2,
             "owner": "soruly",
             "repo": "awesome-acg",
-            "stars": 1470
+            "stars": 1470,
+            "topics": [
+              "anime",
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -753,12 +1098,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of open-source projects related to esports.",
+            "homepage": "https://strift.dev/esports-oss",
             "id": 412132952,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-06-10T12:03:15Z",
+            "open_issues": 2,
             "owner": "Strift",
             "repo": "awesome-esports",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "esports"
+            ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
@@ -769,12 +1123,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Datasets from a variety of games.",
+            "homepage": null,
             "id": 19551283,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-10T13:22:28Z",
+            "open_issues": 0,
             "owner": "cncplyr",
             "repo": "datasets-games",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "data",
+              "game"
+            ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
         }
@@ -783,15 +1145,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:15:23.184Z",
+    "last_updated": "2026-08-29T04:32:37.922Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
+      "homepage": null,
       "id": 151342385,
       "language": null,
+      "license": "CC-BY-4.0",
       "last_commit": "2026-08-08T01:57:45Z",
+      "open_issues": 3,
       "owner": "leomaurodesenv",
       "repo": "game-datasets",
-      "stars": 1109
+      "stars": 1109,
+      "topics": [
+        "artificial-intelligence",
+        "awesome",
+        "awesome-game",
+        "awesome-list",
+        "data-mining",
+        "database",
+        "dataset",
+        "game",
+        "games"
+      ]
     },
     "original_repository_sha": "f2a3348ef0895fbed20b1fad2ef760b78292bb13",
     "enhanced_repository": "enhansome/enhansome-game-datasets",
