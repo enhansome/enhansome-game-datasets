@@ -212,7 +212,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:50:25Z",
-            "open_issues": 444,
+            "open_issues": 442,
             "owner": "crawl",
             "repo": "crawl",
             "stars": 2968,
@@ -236,7 +236,7 @@
             "open_issues": 39,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2064,
+            "stars": 2065,
             "topics": [
               "deep-learning",
               "doom",
@@ -266,7 +266,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "CyberBattleSim",
-            "stars": 1786,
+            "stars": 1788,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3947,
+                "stars": 3948,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -1145,7 +1145,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:32:37.922Z",
+    "last_updated": "2026-08-29T15:20:18.314Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
