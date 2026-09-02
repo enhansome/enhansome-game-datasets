@@ -1,8 +1,8 @@
 # :video\_game: Awesome Game Datasets with stars
 
-[![GitHub](https://img.shields.io/static/v1?label=Code\&message=GitHub\&color=blue\&style=flat-square)](https://github.com/leomaurodesenv/game-datasets) ⭐ 1,111 | 🐛 4 | 📅 2026-08-08
+[![GitHub](https://img.shields.io/static/v1?label=Code\&message=GitHub\&color=blue\&style=flat-square)](https://github.com/leomaurodesenv/game-datasets) ⭐ 1,112 | 🐛 4 | 📅 2026-08-08
 [![CC-BY-4.0 license](https://img.shields.io/static/v1?label=License\&message=CC-BY-4.0\&color=blue\&style=flat-square)](LICENSE)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/leomaurodesenv/game-datasets/continuous-integration.yml?label=Build\&style=flat-square)](https://github.com/leomaurodesenv/game-datasets/actions/workflows/continuous-integration.yml) ⭐ 1,111 | 🐛 4 | 📅 2026-08-08
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/leomaurodesenv/game-datasets/continuous-integration.yml?label=Build\&style=flat-square)](https://github.com/leomaurodesenv/game-datasets/actions/workflows/continuous-integration.yml) ⭐ 1,112 | 🐛 4 | 📅 2026-08-08
 
 In computer science, Artificial Intelligence (AI) is intelligence demonstrated by machines. Its definition, AI research as the study of "intelligent agents": any device that perceives its environment and takes actions that achieving its goals *Russell et. al (2016)*.
 
@@ -68,9 +68,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Malmo](https://github.com/Microsoft/malmo) ⚠️ Archived - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 * [Retro Contest](https://github.com/openai/retro) ⚠️ Archived - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
-* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,970 | 🐛 444 | 🌐 C++ | 📅 2026-09-01 - Roguelike adventure.
+* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,971 | 🐛 443 | 🌐 C++ | 📅 2026-09-02 - Roguelike adventure.
 * [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 2,065 | 🐛 39 | 🌐 C++ | 📅 2026-08-30 - Doom game competition.
-* [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,788 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-08-25 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
+* [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,789 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-08-25 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 * [qengine](https://github.com/klaussilveira/qengine) ⭐ 892 | 🐛 5 | 🌐 C | 📅 2026-08-24 - Retro game engine.
 * [Wargus](https://github.com/Wargus/wargus) ⭐ 430 | 🐛 61 | 🌐 C | 📅 2026-06-29 - Real-time strategy game. [Website](https://wargus.github.io/).
 * [microRTS](https://github.com/santiontanon/microrts) ⭐ 360 | 🐛 4 | 🌐 Java | 📅 2025-08-11 - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2021-06-08.
@@ -101,9 +101,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,471 | 🐛 12 | 🌐 Java | 📅 2026-08-15 - Improved Pixel Dungeon.
-* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,948 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
-* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,817 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-31 - Gamify your life.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,475 | 🐛 12 | 🌐 Java | 📅 2026-08-15 - Improved Pixel Dungeon.
+* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,950 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
+* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,817 | 🐛 9 | 🌐 Kotlin | 📅 2026-09-02 - Gamify your life.
 
 ### Web
 
@@ -250,9 +250,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Gym OpenAI](https://github.com/openai/gym) ⚠️ Archived - Game toolkit for reinforcement learning algorithms.
 * [Games on GitHub](https://github.com/leereilly/games) ⚠️ Archived - Popular videos games hosted in GitHub.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,118 | 🐛 16 | 📅 2026-08-25 - Collection of open-source games.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,119 | 🐛 16 | 📅 2026-08-25 - Collection of open-source games.
 * [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,150 | 🐛 6 | 📅 2026-03-25 - Games to teach programming language.
-* [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,470 | 🐛 2 | 📅 2026-07-15 - Technologies related to anime, comic and games.
+* [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,469 | 🐛 2 | 📅 2026-07-15 - Technologies related to anime, comic and games.
 * [Awesome Esports](https://github.com/strift/awesome-esports) ⭐ 105 | 🐛 2 | 📅 2025-06-10 - Competitiosn using video games.
 * [datasets-games](https://github.com/cncplyr/datasets-games) ⭐ 14 | 🐛 0 | 📅 2026-06-10 - Datasets from a variety of games.
 * [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
@@ -275,4 +275,4 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
