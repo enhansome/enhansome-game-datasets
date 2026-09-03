@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T14:22:41Z",
-            "open_issues": 443,
+            "last_commit": "2026-09-03T06:57:49Z",
+            "open_issues": 440,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 2971,
+            "stars": 2973,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -232,8 +232,8 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-08-30T21:01:12Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-02T21:53:14Z",
+            "open_issues": 37,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
             "stars": 2065,
@@ -262,8 +262,8 @@
             "id": 313767611,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-08-25T16:14:21Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-02T16:47:41Z",
+            "open_issues": 13,
             "owner": "microsoft",
             "repo": "CyberBattleSim",
             "stars": 1789,
@@ -506,10 +506,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-15T14:52:52Z",
-                "open_issues": 12,
+                "open_issues": 10,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6475,
+                "stars": 6477,
                 "topics": [
                   "android",
                   "game",
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3950,
+                "stars": 3949,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -554,11 +554,11 @@
                 "id": 31075682,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T13:04:57Z",
+                "last_commit": "2026-09-03T12:40:43Z",
                 "open_issues": 9,
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
-                "stars": 1817,
+                "stars": 1819,
                 "topics": [
                   "android",
                   "android-studio",
@@ -978,7 +978,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37246,
+            "stars": 37244,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -999,7 +999,7 @@
             "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24941,
+            "stars": 24942,
             "topics": [
               "game",
               "game-development",
@@ -1027,7 +1027,7 @@
             "open_issues": 16,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3119,
+            "stars": 3122,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1051,10 +1051,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-03-25T03:16:25Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
-            "stars": 2150,
+            "stars": 2149,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1145,7 +1145,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T14:43:16.273Z",
+    "last_updated": "2026-09-03T14:44:02.810Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
