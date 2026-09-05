@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T06:36:43Z",
-            "open_issues": 441,
+            "last_commit": "2026-09-05T10:24:54Z",
+            "open_issues": 440,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 2974,
+            "stars": 2978,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -509,7 +509,7 @@
                 "open_issues": 11,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6481,
+                "stars": 6482,
                 "topics": [
                   "android",
                   "game",
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3951,
+                "stars": 3952,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -558,7 +558,7 @@
                 "open_issues": 10,
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
-                "stars": 1821,
+                "stars": 1822,
                 "topics": [
                   "android",
                   "android-studio",
@@ -978,7 +978,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37243,
+            "stars": 37242,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -999,7 +999,7 @@
             "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24944,
+            "stars": 24943,
             "topics": [
               "game",
               "game-development",
@@ -1145,7 +1145,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:33:40.145Z",
+    "last_updated": "2026-09-05T13:33:17.798Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",

@@ -68,7 +68,7 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Malmo](https://github.com/Microsoft/malmo) ⚠️ Archived - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 * [Retro Contest](https://github.com/openai/retro) ⚠️ Archived - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
-* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,974 | 🐛 441 | 🌐 C++ | 📅 2026-09-04 - Roguelike adventure.
+* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,978 | 🐛 440 | 🌐 C++ | 📅 2026-09-05 - Roguelike adventure.
 * [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 2,065 | 🐛 38 | 🌐 C++ | 📅 2026-09-04 - Doom game competition.
 * [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,788 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-09-02 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 * [qengine](https://github.com/klaussilveira/qengine) ⭐ 892 | 🐛 5 | 🌐 C | 📅 2026-08-24 - Retro game engine.
@@ -101,9 +101,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,481 | 🐛 11 | 🌐 Java | 📅 2026-08-15 - Improved Pixel Dungeon.
-* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,951 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
-* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,821 | 🐛 10 | 🌐 Kotlin | 📅 2026-09-03 - Gamify your life.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,482 | 🐛 11 | 🌐 Java | 📅 2026-08-15 - Improved Pixel Dungeon.
+* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,952 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
+* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,822 | 🐛 10 | 🌐 Kotlin | 📅 2026-09-03 - Gamify your life.
 
 ### Web
 
@@ -275,4 +275,4 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
