@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T21:25:35Z",
-            "open_issues": 437,
+            "last_commit": "2026-09-11T14:19:21Z",
+            "open_issues": 436,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 2990,
+            "stars": 2989,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -316,7 +316,7 @@
             "open_issues": 62,
             "owner": "Wargus",
             "repo": "wargus",
-            "stars": 433,
+            "stars": 434,
             "topics": [
               "help-wanted"
             ]
@@ -506,10 +506,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-09T17:20:49Z",
-                "open_issues": 5,
+                "open_issues": 3,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6504,
+                "stars": 6510,
                 "topics": [
                   "android",
                   "game",
@@ -558,7 +558,7 @@
                 "open_issues": 10,
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
-                "stars": 1822,
+                "stars": 1821,
                 "topics": [
                   "android",
                   "android-studio",
@@ -732,7 +732,7 @@
             "open_issues": 32,
             "owner": "googlecreativelab",
             "repo": "quickdraw-dataset",
-            "stars": 6803,
+            "stars": 6804,
             "topics": [
               "dataset",
               "quickdraw-dataset"
@@ -978,7 +978,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37236,
+            "stars": 37238,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -1145,7 +1145,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T14:39:29.679Z",
+    "last_updated": "2026-09-11T14:38:12.419Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
@@ -1153,11 +1153,11 @@
       "id": 151342385,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-08-08T01:57:45Z",
-      "open_issues": 5,
+      "last_commit": "2026-09-10T20:37:38Z",
+      "open_issues": 3,
       "owner": "leomaurodesenv",
       "repo": "game-datasets",
-      "stars": 1119,
+      "stars": 1120,
       "topics": [
         "artificial-intelligence",
         "awesome",
@@ -1170,7 +1170,7 @@
         "games"
       ]
     },
-    "original_repository_sha": "f2a3348ef0895fbed20b1fad2ef760b78292bb13",
+    "original_repository_sha": "1f6af758c03c9092627d6562f094bf48aa3ffc5f",
     "enhanced_repository": "enhansome/enhansome-game-datasets",
     "enhanced_repository_description": null,
     "title": ":video_game: Awesome Game Datasets with stars"
