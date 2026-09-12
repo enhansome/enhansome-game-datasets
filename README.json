@@ -194,7 +194,7 @@
             "open_issues": 62,
             "owner": "openai",
             "repo": "retro",
-            "stars": 3585,
+            "stars": 3586,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -211,8 +211,8 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T14:19:21Z",
-            "open_issues": 436,
+            "last_commit": "2026-09-11T18:32:36Z",
+            "open_issues": 438,
             "owner": "crawl",
             "repo": "crawl",
             "stars": 2989,
@@ -232,11 +232,11 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-10T04:24:08Z",
+            "last_commit": "2026-09-11T18:13:58Z",
             "open_issues": 40,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2067,
+            "stars": 2068,
             "topics": [
               "deep-learning",
               "doom",
@@ -266,7 +266,7 @@
             "open_issues": 13,
             "owner": "microsoft",
             "repo": "CyberBattleSim",
-            "stars": 1789,
+            "stars": 1790,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -506,10 +506,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-09T17:20:49Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6510,
+                "stars": 6512,
                 "topics": [
                   "android",
                   "game",
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3955,
+                "stars": 3956,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -554,11 +554,11 @@
                 "id": 31075682,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T09:22:17Z",
+                "last_commit": "2026-09-11T17:39:50Z",
                 "open_issues": 10,
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
-                "stars": 1821,
+                "stars": 1820,
                 "topics": [
                   "android",
                   "android-studio",
@@ -999,7 +999,7 @@
             "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24946,
+            "stars": 24947,
             "topics": [
               "game",
               "game-development",
@@ -1054,7 +1054,7 @@
             "open_issues": 7,
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
-            "stars": 2152,
+            "stars": 2153,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1145,7 +1145,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T14:38:12.419Z",
+    "last_updated": "2026-09-12T13:45:22.604Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
