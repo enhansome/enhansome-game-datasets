@@ -211,8 +211,8 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T17:58:41Z",
-            "open_issues": 439,
+            "last_commit": "2026-09-14T04:15:56Z",
+            "open_issues": 437,
             "owner": "crawl",
             "repo": "crawl",
             "stars": 2990,
@@ -232,11 +232,11 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-13T08:47:05Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-13T22:44:12Z",
+            "open_issues": 38,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2069,
+            "stars": 2072,
             "topics": [
               "deep-learning",
               "doom",
@@ -266,7 +266,7 @@
             "open_issues": 13,
             "owner": "microsoft",
             "repo": "CyberBattleSim",
-            "stars": 1792,
+            "stars": 1793,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -506,10 +506,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-09T17:20:49Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6513,
+                "stars": 6519,
                 "topics": [
                   "android",
                   "game",
@@ -978,7 +978,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37237,
+            "stars": 37238,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -1027,7 +1027,7 @@
             "open_issues": 17,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3131,
+            "stars": 3133,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1054,7 +1054,7 @@
             "open_issues": 7,
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
-            "stars": 2153,
+            "stars": 2154,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1145,7 +1145,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T14:42:59.994Z",
+    "last_updated": "2026-09-14T16:36:26.482Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
