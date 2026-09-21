@@ -19,7 +19,7 @@
             "open_issues": 81,
             "owner": "TheGamesDB",
             "repo": "TheGamesDB",
-            "stars": 137,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T04:53:57Z",
-            "open_issues": 443,
+            "last_commit": "2026-09-21T14:16:25Z",
+            "open_issues": 445,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3007,
+            "stars": 3011,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -232,11 +232,11 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-20T12:32:59Z",
+            "last_commit": "2026-09-21T07:13:32Z",
             "open_issues": 38,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2079,
+            "stars": 2082,
             "topics": [
               "deep-learning",
               "doom",
@@ -506,10 +506,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-09T17:20:49Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6553,
+                "stars": 6558,
                 "topics": [
                   "android",
                   "game",
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3960,
+                "stars": 3961,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -554,7 +554,7 @@
                 "id": 31075682,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T13:16:06Z",
+                "last_commit": "2026-09-21T11:25:28Z",
                 "open_issues": 10,
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
@@ -629,7 +629,7 @@
                 "open_issues": 18,
                 "owner": "robertkleffner",
                 "repo": "mariohtml5",
-                "stars": 530,
+                "stars": 531,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -882,6 +882,27 @@
         },
         {
           "node_type": "item",
+          "title": "GameScope",
+          "description": "Gaming video quality dataset: 4,048 UGC and PGC clips from 74 games, encoded with H.264, H.265 and AV1, each with about 37 mean opinion scores plus quality attributes. Paper, Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1153215388,
+            "language": "CSS",
+            "license": "MIT",
+            "last_commit": "2026-05-05T02:40:40Z",
+            "open_issues": 1,
+            "owner": "rajeshsureddi",
+            "repo": "GameScope",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-21T16:37:00.840Z"
+        },
+        {
+          "node_type": "item",
           "title": "Scrabble",
           "description": "Data Quackle game matches.",
           "children": [],
@@ -978,7 +999,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37237,
+            "stars": 37236,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -1024,7 +1045,7 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
             "stars": 3137,
@@ -1054,7 +1075,7 @@
             "open_issues": 7,
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
-            "stars": 2158,
+            "stars": 2157,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1078,11 +1099,11 @@
             "id": 55614000,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-20T13:28:50Z",
+            "last_commit": "2026-09-21T11:32:07Z",
             "open_issues": 3,
             "owner": "soruly",
             "repo": "awesome-acg",
-            "stars": 1475,
+            "stars": 1476,
             "topics": [
               "anime",
               "awesome",
@@ -1107,7 +1128,7 @@
             "open_issues": 3,
             "owner": "Strift",
             "repo": "awesome-esports",
-            "stars": 106,
+            "stars": 107,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1145,7 +1166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:21:42.652Z",
+    "last_updated": "2026-09-21T16:37:00.840Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
@@ -1153,11 +1174,11 @@
       "id": 151342385,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-09-10T20:37:38Z",
-      "open_issues": 5,
+      "last_commit": "2026-09-21T01:01:28Z",
+      "open_issues": 2,
       "owner": "leomaurodesenv",
       "repo": "game-datasets",
-      "stars": 1123,
+      "stars": 1124,
       "topics": [
         "artificial-intelligence",
         "awesome",
@@ -1170,7 +1191,7 @@
         "games"
       ]
     },
-    "original_repository_sha": "1f6af758c03c9092627d6562f094bf48aa3ffc5f",
+    "original_repository_sha": "f7a55715af51e2adb56fc07e5cb417a0de36a480",
     "enhanced_repository": "enhansome/enhansome-game-datasets",
     "enhanced_repository_description": null,
     "title": ":video_game: Awesome Game Datasets with stars"
