@@ -173,7 +173,7 @@
             "open_issues": 171,
             "owner": "microsoft",
             "repo": "malmo",
-            "stars": 4271,
+            "stars": 4270,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T14:16:25Z",
-            "open_issues": 445,
+            "last_commit": "2026-09-22T15:03:26Z",
+            "open_issues": 440,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3011,
+            "stars": 3015,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -232,11 +232,11 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-21T07:13:32Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-21T22:27:58Z",
+            "open_issues": 39,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2082,
+            "stars": 2084,
             "topics": [
               "deep-learning",
               "doom",
@@ -266,7 +266,7 @@
             "open_issues": 16,
             "owner": "microsoft",
             "repo": "CyberBattleSim",
-            "stars": 1794,
+            "stars": 1793,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -509,7 +509,7 @@
                 "open_issues": 7,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6558,
+                "stars": 6563,
                 "topics": [
                   "android",
                   "game",
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3961,
+                "stars": 3962,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -554,7 +554,7 @@
                 "id": 31075682,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T11:25:28Z",
+                "last_commit": "2026-09-22T14:35:09Z",
                 "open_issues": 10,
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
@@ -598,7 +598,7 @@
                 "open_issues": 14,
                 "owner": "MattSurabian",
                 "repo": "DuckHunt-JS",
-                "stars": 632,
+                "stars": 631,
                 "topics": [
                   "audio",
                   "canvas",
@@ -1020,7 +1020,7 @@
             "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24952,
+            "stars": 24955,
             "topics": [
               "game",
               "game-development",
@@ -1048,7 +1048,7 @@
             "open_issues": 19,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3137,
+            "stars": 3138,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1075,7 +1075,7 @@
             "open_issues": 7,
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
-            "stars": 2157,
+            "stars": 2158,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1100,7 +1100,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-21T11:32:07Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "soruly",
             "repo": "awesome-acg",
             "stars": 1476,
@@ -1166,7 +1166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T16:37:00.840Z",
+    "last_updated": "2026-09-22T15:11:06.721Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
@@ -1178,7 +1178,7 @@
       "open_issues": 2,
       "owner": "leomaurodesenv",
       "repo": "game-datasets",
-      "stars": 1124,
+      "stars": 1125,
       "topics": [
         "artificial-intelligence",
         "awesome",
