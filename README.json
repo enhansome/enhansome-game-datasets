@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T21:12:08Z",
+            "last_commit": "2026-09-24T11:57:37Z",
             "open_issues": 438,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3018,
+            "stars": 3020,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -506,10 +506,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-09T17:20:49Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6566,
+                "stars": 6568,
                 "topics": [
                   "android",
                   "game",
@@ -554,7 +554,7 @@
                 "id": 31075682,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T14:35:09Z",
+                "last_commit": "2026-09-24T10:39:08Z",
                 "open_issues": 10,
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
@@ -999,7 +999,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37237,
+            "stars": 37236,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -1020,7 +1020,7 @@
             "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24956,
+            "stars": 24957,
             "topics": [
               "game",
               "game-development",
@@ -1048,7 +1048,7 @@
             "open_issues": 19,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3140,
+            "stars": 3142,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1071,7 +1071,7 @@
             "id": 80900906,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-03-25T03:16:25Z",
+            "last_commit": "2026-09-23T16:17:08Z",
             "open_issues": 7,
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
@@ -1103,7 +1103,7 @@
             "open_issues": 4,
             "owner": "soruly",
             "repo": "awesome-acg",
-            "stars": 1477,
+            "stars": 1476,
             "topics": [
               "anime",
               "awesome",
@@ -1166,7 +1166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T15:11:49.715Z",
+    "last_updated": "2026-09-24T15:30:40.738Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
@@ -1178,7 +1178,7 @@
       "open_issues": 2,
       "owner": "leomaurodesenv",
       "repo": "game-datasets",
-      "stars": 1125,
+      "stars": 1128,
       "topics": [
         "artificial-intelligence",
         "awesome",
