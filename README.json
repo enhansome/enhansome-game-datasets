@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T11:57:37Z",
-            "open_issues": 438,
+            "last_commit": "2026-09-24T18:13:14Z",
+            "open_issues": 434,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3020,
+            "stars": 3023,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -232,11 +232,11 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-21T22:27:58Z",
+            "last_commit": "2026-09-25T11:48:09Z",
             "open_issues": 39,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2084,
+            "stars": 2085,
             "topics": [
               "deep-learning",
               "doom",
@@ -266,7 +266,7 @@
             "open_issues": 16,
             "owner": "microsoft",
             "repo": "CyberBattleSim",
-            "stars": 1794,
+            "stars": 1795,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -360,7 +360,7 @@
             "open_issues": 3,
             "owner": "polyworld",
             "repo": "polyworld",
-            "stars": 210,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -506,10 +506,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-09T17:20:49Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6568,
+                "stars": 6571,
                 "topics": [
                   "android",
                   "game",
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3963,
+                "stars": 3964,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -558,7 +558,7 @@
                 "open_issues": 10,
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
-                "stars": 1821,
+                "stars": 1822,
                 "topics": [
                   "android",
                   "android-studio",
@@ -1020,7 +1020,7 @@
             "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24957,
+            "stars": 24959,
             "topics": [
               "game",
               "game-development",
@@ -1045,10 +1045,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 19,
+            "open_issues": 21,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3142,
+            "stars": 3146,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1128,7 +1128,7 @@
             "open_issues": 3,
             "owner": "Strift",
             "repo": "awesome-esports",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1166,7 +1166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:30:40.738Z",
+    "last_updated": "2026-09-25T15:34:52.158Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
