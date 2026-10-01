@@ -212,10 +212,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-30T00:01:41Z",
-            "open_issues": 435,
+            "open_issues": 439,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3033,
+            "stars": 3035,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -236,7 +236,7 @@
             "open_issues": 39,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2091,
+            "stars": 2094,
             "topics": [
               "deep-learning",
               "doom",
@@ -316,7 +316,7 @@
             "open_issues": 62,
             "owner": "Wargus",
             "repo": "wargus",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "help-wanted"
             ]
@@ -339,7 +339,7 @@
             "open_issues": 4,
             "owner": "Farama-Foundation",
             "repo": "MicroRTS",
-            "stars": 361,
+            "stars": 362,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -509,7 +509,7 @@
                 "open_issues": 8,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6587,
+                "stars": 6589,
                 "topics": [
                   "android",
                   "game",
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3968,
+                "stars": 3970,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -732,7 +732,7 @@
             "open_issues": 32,
             "owner": "googlecreativelab",
             "repo": "quickdraw-dataset",
-            "stars": 6802,
+            "stars": 6801,
             "topics": [
               "dataset",
               "quickdraw-dataset"
@@ -1048,7 +1048,7 @@
             "open_issues": 27,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3156,
+            "stars": 3158,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1166,7 +1166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T16:31:08.470Z",
+    "last_updated": "2026-10-01T17:09:10.230Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
