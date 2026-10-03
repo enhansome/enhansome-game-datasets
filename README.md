@@ -1,8 +1,8 @@
 # :video\_game: Awesome Game Datasets with stars
 
-[![GitHub](https://img.shields.io/static/v1?label=Code\&message=GitHub\&color=blue\&style=flat-square)](https://github.com/leomaurodesenv/game-datasets) ⭐ 1,129 | 🐛 3 | 📅 2026-09-21
+[![GitHub](https://img.shields.io/static/v1?label=Code\&message=GitHub\&color=blue\&style=flat-square)](https://github.com/leomaurodesenv/game-datasets)
 [![CC-BY-4.0 license](https://img.shields.io/static/v1?label=License\&message=CC-BY-4.0\&color=blue\&style=flat-square)](LICENSE)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/leomaurodesenv/game-datasets/continuous-integration.yml?label=Build\&style=flat-square)](https://github.com/leomaurodesenv/game-datasets/actions/workflows/continuous-integration.yml) ⭐ 1,129 | 🐛 3 | 📅 2026-09-21
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/leomaurodesenv/game-datasets/continuous-integration.yml?label=Build\&style=flat-square)](https://github.com/leomaurodesenv/game-datasets/actions/workflows/continuous-integration.yml)
 
 In computer science, Artificial Intelligence (AI) is intelligence demonstrated by machines. Its definition, AI research as the study of "intelligent agents": any device that perceives its environment and takes actions that achieving its goals *Russell et. al (2016)*.
 
@@ -101,8 +101,8 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,596 | 🐛 9 | 🌐 Java | 📅 2026-09-09 - Improved Pixel Dungeon.
-* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,970 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,599 | 🐛 9 | 🌐 Java | 📅 2026-09-09 - Improved Pixel Dungeon.
+* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,969 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
 * [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,826 | 🐛 11 | 🌐 Kotlin | 📅 2026-10-02 - Gamify your life.
 
 ### Web
@@ -254,7 +254,7 @@ API is *"a set of functions and procedures allowing the creation of applications
 * [Gym OpenAI](https://github.com/openai/gym) ⚠️ Archived - Game toolkit for reinforcement learning algorithms.
 * [Games on GitHub](https://github.com/leereilly/games) ⚠️ Archived - Popular videos games hosted in GitHub.
 * [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,161 | 🐛 27 | 📅 2026-08-25 - Collection of open-source games.
-* [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,159 | 🐛 7 | 📅 2026-09-23 - Games to teach programming language.
+* [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,160 | 🐛 7 | 📅 2026-09-23 - Games to teach programming language.
 * [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,478 | 🐛 6 | 📅 2026-09-21 - Technologies related to anime, comic and games.
 * [Awesome Esports](https://github.com/strift/awesome-esports) ⭐ 108 | 🐛 4 | 📅 2025-06-10 - Competitiosn using video games.
 * [datasets-games](https://github.com/cncplyr/datasets-games) ⭐ 14 | 🐛 0 | 📅 2026-06-10 - Datasets from a variety of games.
@@ -278,4 +278,4 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

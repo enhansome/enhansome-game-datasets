@@ -509,7 +509,7 @@
                 "open_issues": 9,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6596,
+                "stars": 6599,
                 "topics": [
                   "android",
                   "game",
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3970,
+                "stars": 3969,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -1075,7 +1075,7 @@
             "open_issues": 7,
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
-            "stars": 2159,
+            "stars": 2160,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1166,7 +1166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:22:58.916Z",
+    "last_updated": "2026-10-03T04:50:45.381Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
