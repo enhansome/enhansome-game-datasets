@@ -68,7 +68,7 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Malmo](https://github.com/Microsoft/malmo) ⚠️ Archived - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 * [Retro Contest](https://github.com/openai/retro) ⚠️ Archived - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
-* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 3,036 | 🐛 435 | 🌐 C++ | 📅 2026-10-06 - Roguelike adventure.
+* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 3,036 | 🐛 437 | 🌐 C++ | 📅 2026-10-06 - Roguelike adventure.
 * [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 2,097 | 🐛 39 | 🌐 C++ | 📅 2026-09-25 - Doom game competition.
 * [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,797 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-09-18 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 * [qengine](https://github.com/klaussilveira/qengine) ⭐ 891 | 🐛 5 | 🌐 C | 📅 2026-08-24 - Retro game engine.
@@ -101,8 +101,8 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,620 | 🐛 10 | 🌐 Java | 📅 2026-10-03 - Improved Pixel Dungeon.
-* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,973 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,623 | 🐛 10 | 🌐 Java | 📅 2026-10-03 - Improved Pixel Dungeon.
+* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,974 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
 * [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,829 | 🐛 11 | 🌐 Kotlin | 📅 2026-10-05 - Gamify your life.
 
 ### Web
