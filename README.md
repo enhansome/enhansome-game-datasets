@@ -68,10 +68,10 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Malmo](https://github.com/Microsoft/malmo) ⚠️ Archived - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 * [Retro Contest](https://github.com/openai/retro) ⚠️ Archived - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
-* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 3,036 | 🐛 437 | 🌐 C++ | 📅 2026-10-06 - Roguelike adventure.
+* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 3,037 | 🐛 439 | 🌐 C++ | 📅 2026-10-07 - Roguelike adventure.
 * [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 2,097 | 🐛 39 | 🌐 C++ | 📅 2026-09-25 - Doom game competition.
-* [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,797 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-09-18 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
-* [qengine](https://github.com/klaussilveira/qengine) ⭐ 891 | 🐛 5 | 🌐 C | 📅 2026-08-24 - Retro game engine.
+* [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,797 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-10-07 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
+* [qengine](https://github.com/klaussilveira/qengine) ⭐ 890 | 🐛 5 | 🌐 C | 📅 2026-08-24 - Retro game engine.
 * [Wargus](https://github.com/Wargus/wargus) ⭐ 438 | 🐛 62 | 🌐 C | 📅 2026-09-05 - Real-time strategy game. [Website](https://wargus.github.io/).
 * [microRTS](https://github.com/santiontanon/microrts) ⭐ 362 | 🐛 4 | 🌐 Java | 📅 2025-08-11 - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2021-06-08.
 * [polyworld](https://github.com/polyworld/polyworld) ⭐ 212 | 🐛 3 | 🌐 C++ | 📅 2025-09-21 - Artificial life system.
@@ -101,13 +101,13 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,623 | 🐛 10 | 🌐 Java | 📅 2026-10-03 - Improved Pixel Dungeon.
-* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,974 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,627 | 🐛 5 | 🌐 Java | 📅 2026-10-07 - Improved Pixel Dungeon.
+* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,975 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
 * [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,829 | 🐛 11 | 🌐 Kotlin | 📅 2026-10-05 - Gamify your life.
 
 ### Web
 
-* [Duck Hunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 632 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-30 - Shooting game in ducks. [Play](http://duckhuntjs.com/).
+* [Duck Hunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 633 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-30 - Shooting game in ducks. [Play](http://duckhuntjs.com/).
 * [Infinite Mario Bros](https://github.com/robertkleffner/mariohtml5) ⭐ 531 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-06 - Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html).
 * [Onslaught! Arena](https://github.com/lostdecade/onslaught_arena) ⭐ 203 | 🐛 3 | 🌐 JavaScript | 📅 2017-04-04 - Fight off hordes of medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/).
 * [Digger](https://github.com/lutzroeder/digger) ⚠️ Archived - Boulderdash game.
@@ -278,4 +278,4 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
