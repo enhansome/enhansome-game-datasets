@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T08:25:18Z",
-            "open_issues": 441,
+            "last_commit": "2026-10-10T21:06:55Z",
+            "open_issues": 440,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3041,
+            "stars": 3042,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -232,8 +232,8 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-09T12:53:57Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-10T22:36:47Z",
+            "open_issues": 39,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
             "stars": 2097,
@@ -266,7 +266,7 @@
             "open_issues": 19,
             "owner": "microsoft",
             "repo": "CyberBattleSim",
-            "stars": 1799,
+            "stars": 1800,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -316,7 +316,7 @@
             "open_issues": 61,
             "owner": "Wargus",
             "repo": "wargus",
-            "stars": 438,
+            "stars": 440,
             "topics": [
               "help-wanted"
             ]
@@ -339,7 +339,7 @@
             "open_issues": 4,
             "owner": "Farama-Foundation",
             "repo": "MicroRTS",
-            "stars": 362,
+            "stars": 363,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -509,7 +509,7 @@
                 "open_issues": 7,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6648,
+                "stars": 6652,
                 "topics": [
                   "android",
                   "game",
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3978,
+                "stars": 3981,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -732,7 +732,7 @@
             "open_issues": 32,
             "owner": "googlecreativelab",
             "repo": "quickdraw-dataset",
-            "stars": 6798,
+            "stars": 6797,
             "topics": [
               "dataset",
               "quickdraw-dataset"
@@ -923,6 +923,56 @@
           "first_seen": "2026-08-28T21:15:23.184Z"
         },
         {
+          "node_type": "item",
+          "title": "Co-op Game Night Data",
+          "description": "Dated co-op game metadata with official sources, player-cap uncertainty, CSV and JSON exports, and a local filtering tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Dated co-op game observations with official sources, a reusable planning checklist, and a local group-size filter.",
+            "homepage": null,
+            "id": 1401717853,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-02T12:50:13Z",
+            "open_issues": 0,
+            "owner": "gegewang774-hue",
+            "repo": "coop-game-night-data",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-11T16:25:26.370Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Planet Zoo 2 launch dataset",
+          "description": "Species data with biome, enclosure, taxonomy and conservation fields, plus a pairwise cohabitation compatibility matrix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Machine-readable Planet Zoo 2 launch dataset: 130 species + 1,221-pair co-habitation matrix, CC BY 4.0. Rendered at pz2tools.wiki",
+            "homepage": "https://pz2tools.wiki/",
+            "id": 1411794663,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-11T06:22:32Z",
+            "open_issues": 0,
+            "owner": "odebo",
+            "repo": "planet-zoo-2-dataset",
+            "stars": 0,
+            "topics": [
+              "dataset",
+              "game-data",
+              "gaming",
+              "open-data",
+              "planet-zoo",
+              "planet-zoo-2",
+              "zoopedia"
+            ]
+          },
+          "first_seen": "2026-10-11T16:25:26.370Z"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -999,7 +1049,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37246,
+            "stars": 37245,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -1020,7 +1070,7 @@
             "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24966,
+            "stars": 24965,
             "topics": [
               "game",
               "game-development",
@@ -1045,10 +1095,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3175,
+            "stars": 3176,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1075,7 +1125,7 @@
             "open_issues": 8,
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
-            "stars": 2162,
+            "stars": 2163,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1160,13 +1210,45 @@
             ]
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PlayerSells Open Data",
+          "description": "Measured streaming and creator datasets: Kick and Twitch viewing by category, simulcasting, and follower and engagement benchmarks (CC BY 4.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open data from PlayerSells: aggregate measurements of X, Telegram, YouTube, TikTok, Bluesky, Kick and Twitch (CC BY 4.0)",
+            "homepage": "https://playersells.com",
+            "id": 1408130316,
+            "language": "Python",
+            "license": "CC-BY-4.0",
+            "last_commit": "2026-10-10T12:43:56Z",
+            "open_issues": 0,
+            "owner": "playersells",
+            "repo": "open-data",
+            "stars": 0,
+            "topics": [
+              "cc-by",
+              "creator-economy",
+              "dataset",
+              "kick",
+              "open-data",
+              "social-media",
+              "telegram",
+              "twitch",
+              "twitter",
+              "youtube"
+            ]
+          },
+          "first_seen": "2026-10-11T16:25:26.370Z"
         }
       ],
       "title": "Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:57:35.603Z",
+    "last_updated": "2026-10-11T16:25:26.370Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
@@ -1174,11 +1256,11 @@
       "id": 151342385,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-09-21T01:01:28Z",
-      "open_issues": 7,
+      "last_commit": "2026-10-11T00:59:09Z",
+      "open_issues": 2,
       "owner": "leomaurodesenv",
       "repo": "game-datasets",
-      "stars": 1133,
+      "stars": 1134,
       "topics": [
         "artificial-intelligence",
         "awesome",
@@ -1191,7 +1273,7 @@
         "games"
       ]
     },
-    "original_repository_sha": "f7a55715af51e2adb56fc07e5cb417a0de36a480",
+    "original_repository_sha": "b072ef6a29887560fcf82d8eff82a6ed8ec4b232",
     "enhanced_repository": "enhansome/enhansome-game-datasets",
     "enhanced_repository_description": null,
     "title": ":video_game: Awesome Game Datasets with stars"
