@@ -68,9 +68,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Malmo](https://github.com/Microsoft/malmo) ⚠️ Archived - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 * [Retro Contest](https://github.com/openai/retro) ⚠️ Archived - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
-* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 3,041 | 🐛 441 | 🌐 C++ | 📅 2026-10-13 - Roguelike adventure.
-* [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 2,096 | 🐛 40 | 🌐 C++ | 📅 2026-10-13 - Doom game competition.
-* [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,802 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-10-08 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
+* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 3,041 | 🐛 439 | 🌐 C++ | 📅 2026-10-14 - Roguelike adventure.
+* [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 2,098 | 🐛 39 | 🌐 C++ | 📅 2026-10-13 - Doom game competition.
+* [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,803 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-10-08 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 * [qengine](https://github.com/klaussilveira/qengine) ⭐ 890 | 🐛 5 | 🌐 C | 📅 2026-08-24 - Retro game engine.
 * [Wargus](https://github.com/Wargus/wargus) ⭐ 441 | 🐛 61 | 🌐 C | 📅 2026-10-10 - Real-time strategy game. [Website](https://wargus.github.io/).
 * [microRTS](https://github.com/santiontanon/microrts) ⭐ 364 | 🐛 4 | 🌐 Java | 📅 2025-08-11 - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2021-06-08.
@@ -101,15 +101,15 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,674 | 🐛 8 | 🌐 Java | 📅 2026-10-07 - Improved Pixel Dungeon.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,680 | 🐛 8 | 🌐 Java | 📅 2026-10-07 - Improved Pixel Dungeon.
 * [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,982 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
 * [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,829 | 🐛 11 | 🌐 Kotlin | 📅 2026-10-05 - Gamify your life.
 
 ### Web
 
-* [Duck Hunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 633 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-30 - Shooting game in ducks. [Play](http://duckhuntjs.com/).
+* [Duck Hunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 635 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-30 - Shooting game in ducks. [Play](http://duckhuntjs.com/).
 * [Infinite Mario Bros](https://github.com/robertkleffner/mariohtml5) ⭐ 531 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-06 - Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html).
-* [Onslaught! Arena](https://github.com/lostdecade/onslaught_arena) ⭐ 203 | 🐛 3 | 🌐 JavaScript | 📅 2017-04-04 - Fight off hordes of medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/).
+* [Onslaught! Arena](https://github.com/lostdecade/onslaught_arena) ⭐ 204 | 🐛 3 | 🌐 JavaScript | 📅 2017-04-04 - Fight off hordes of medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/).
 * [Digger](https://github.com/lutzroeder/digger) ⚠️ Archived - Boulderdash game.
 * [TapAI](https://github.com/leomaurodesenv/TapAI) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2019-02-09 - User interactions with a tap on screen game.
 * [Starship](http://maettig.com/code/canvas/starship-sorades-13k.zip) - Traditional starship game.
@@ -255,8 +255,8 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Gym OpenAI](https://github.com/openai/gym) ⚠️ Archived - Game toolkit for reinforcement learning algorithms.
 * [Games on GitHub](https://github.com/leereilly/games) ⚠️ Archived - Popular videos games hosted in GitHub.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,179 | 🐛 27 | 📅 2026-08-25 - Collection of open-source games.
-* [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,166 | 🐛 8 | 📅 2026-09-23 - Games to teach programming language.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,181 | 🐛 27 | 📅 2026-08-25 - Collection of open-source games.
+* [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,168 | 🐛 8 | 📅 2026-09-23 - Games to teach programming language.
 * [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,480 | 🐛 8 | 📅 2026-09-21 - Technologies related to anime, comic and games.
 * [Awesome Esports](https://github.com/strift/awesome-esports) ⭐ 108 | 🐛 4 | 📅 2025-06-10 - Competitiosn using video games.
 * [datasets-games](https://github.com/cncplyr/datasets-games) ⭐ 14 | 🐛 0 | 📅 2026-06-10 - Datasets from a variety of games.
@@ -281,4 +281,4 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
