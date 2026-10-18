@@ -38,7 +38,7 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [TGDB](https://github.com/TheGamesDB/TheGamesDB/) ⭐ 139 | 🐛 81 | 🌐 JavaScript | 📅 2017-07-11 - General information of games from any platform. [Website](https://thegamesdb.net/).
 * [vgchartzScrape](https://github.com/GregorUT/vgchartzScrape) ⭐ 87 | 🐛 6 | 🌐 Python | 📅 2022-11-11 - Crawler from [VGChartz](http://www.vgchartz.com).
-* [smm-course-viewer](https://github.com/leomaurodesenv/smm-course-viewer) ⭐ 21 | 🐛 15 | 🌐 JavaScript | 📅 2019-05-06 - Read courses from Super Mario Maker saves.
+* [smm-course-viewer](https://github.com/leomaurodesenv/smm-course-viewer) ⭐ 21 | 🐛 19 | 🌐 JavaScript | 📅 2019-05-06 - Read courses from Super Mario Maker saves.
 * [smm-course-search](https://github.com/leomaurodesenv/smm-course-search) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2026-02-21 - Search courses from Super Mario Maker game.
 * [smm-maker-profile](https://github.com/leomaurodesenv/smm-maker-profile) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-20 - Fetch the user profile from Super Mario Maker game.
 * [Counter-Strike](https://github.com/pnxenopoulos/csgo) ⭐ 0 | 🐛 0 | 📅 2022-02-04 - data parsing for Counter-Strike: Global Offensive (CSGO).
@@ -53,7 +53,6 @@ API is *"a set of functions and procedures allowing the creation of applications
 * [OpenCritic](https://www.opencritic.com) - Game reviews aggregator.
 * [OpenDota](https://www.opendota.com/) - Platform providing Dota 2 data.
 * [PandaScore](https://pandascore.co/) - Realtime eSports data.
-* [PixelGamesHub AI Games Index](https://pixelgameshub.com/ai-games/index) - Curated index of AI-powered browser games with open JSON and CSV endpoints.
 * [PokéAPI](https://pokeapi.co/) - Pokémon data of all generations.
 * [Riot Games](https://developer.riotgames.com/) - Active games, match history, and ranked statistics.
 * [Steam Database](https://github.com/SteamDatabase) - Series of tools to Steam data. [Website](https://steamdb.info/).
@@ -68,11 +67,11 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Malmo](https://github.com/Microsoft/malmo) ⚠️ Archived - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 * [Retro Contest](https://github.com/openai/retro) ⚠️ Archived - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
-* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 3,045 | 🐛 444 | 🌐 C++ | 📅 2026-10-16 - Roguelike adventure.
+* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 3,045 | 🐛 443 | 🌐 C++ | 📅 2026-10-17 - Roguelike adventure.
 * [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 2,098 | 🐛 45 | 🌐 C++ | 📅 2026-10-16 - Doom game competition.
 * [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,800 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-10-16 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 * [qengine](https://github.com/klaussilveira/qengine) ⭐ 891 | 🐛 5 | 🌐 C | 📅 2026-08-24 - Retro game engine.
-* [Wargus](https://github.com/Wargus/wargus) ⭐ 441 | 🐛 61 | 🌐 C | 📅 2026-10-10 - Real-time strategy game. [Website](https://wargus.github.io/).
+* [Wargus](https://github.com/Wargus/wargus) ⭐ 442 | 🐛 61 | 🌐 C | 📅 2026-10-10 - Real-time strategy game. [Website](https://wargus.github.io/).
 * [microRTS](https://github.com/santiontanon/microrts) ⭐ 364 | 🐛 4 | 🌐 Java | 📅 2025-08-11 - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2021-06-08.
 * [polyworld](https://github.com/polyworld/polyworld) ⭐ 214 | 🐛 3 | 🌐 C++ | 📅 2025-09-21 - Artificial life system.
 * [Text-Based Adventure AI Competition](https://github.com/Atkrye/IEEE-CIG-Text-Adventurer-Competition) ⭐ 29 | 🐛 3 | 🌐 Java | 📅 2018-07-27 - Text-adventure game competition. [Website](http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/).
@@ -86,7 +85,6 @@ API is *"a set of functions and procedures allowing the creation of applications
 * [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/) - Controller for a fighting game.
 * [FlightGear Flight Simulator](https://www.flightgear.org/) - Flight simulator.
 * [Halite by Two Sigma](https://www.kaggle.com/c/halite/) - Collect the halite during a match in space.
-* [Hanabi Competition](http://hanabi.aiclash.com/) - Board game competition.
 * [Infinite Mario Bros](http://www.marioai.org/) - Super Mario competition. Platformer AI antecedent. [Website](http://julian.togelius.com/mariocompetition2009/).
 * [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - Pac-Man game competition.
 * [OpenLieroX](http://www.openlierox.net/) - Liero (similar to Worms) game.
@@ -101,17 +99,18 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,686 | 🐛 5 | 🌐 Java | 📅 2026-10-07 - Improved Pixel Dungeon.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,687 | 🐛 5 | 🌐 Java | 📅 2026-10-07 - Improved Pixel Dungeon.
 * [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,984 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
-* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,830 | 🐛 11 | 🌐 Kotlin | 📅 2026-10-05 - Gamify your life.
+* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,831 | 🐛 11 | 🌐 Kotlin | 📅 2026-10-05 - Gamify your life.
 
 ### Web
 
 * [Duck Hunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 635 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-30 - Shooting game in ducks. [Play](http://duckhuntjs.com/).
-* [Infinite Mario Bros](https://github.com/robertkleffner/mariohtml5) ⭐ 531 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-06 - Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html).
+* [Infinite Mario Bros](https://github.com/robertkleffner/mariohtml5) ⭐ 532 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-06 - Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html).
 * [Onslaught! Arena](https://github.com/lostdecade/onslaught_arena) ⭐ 204 | 🐛 3 | 🌐 JavaScript | 📅 2017-04-04 - Fight off hordes of medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/).
 * [Digger](https://github.com/lutzroeder/digger) ⚠️ Archived - Boulderdash game.
 * [TapAI](https://github.com/leomaurodesenv/TapAI) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2019-02-09 - User interactions with a tap on screen game.
+* [PixelGamesHub](https://pixelgameshub.com/) - Curated index of AI-powered browser games.
 * [Starship](http://maettig.com/code/canvas/starship-sorades-13k.zip) - Traditional starship game.
 * [WebNES](https://github.com/pubby) - Play rooms of NES in web browser. [Play](http://pubby.github.io/webnes/index_app.html).
 
@@ -138,10 +137,12 @@ API is *"a set of functions and procedures allowing the creation of applications
 * [Pokémon GO Pokédex](https://github.com/Biuni/PokemonGO-Pokedex) ⭐ 134 | 🐛 1 | 📅 2017-01-28 - Encyclopedia Pokemon.
 * [dnddata](https://github.com/oganm/dnddata) ⭐ 123 | 🐛 2 | 🌐 R | 📅 2022-08-24 - Dataset of Dungeons and Dragons characters.
 * [bravefrontier\_data](https://github.com/cheahjs/bravefrontier_data) ⚠️ Archived - Mobile game data, items and missions information.
+* [BJJGraph](https://github.com/diogoseca/bjjgraph) ⭐ 31 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-18 - Transition graph behind a Brazilian jiu-jitsu sparring game, with estimated gi and no-gi outcome probabilities.
 * [GamingVideoSET](https://github.com/NabajeetBarman/GamingHDRVideoSET) ⭐ 7 | 🐛 0 | 📅 2025-05-08 - A Dataset for Gaming Video Streaming Applications. [Paper](https://ieeexplore.ieee.org/document/8463362)
 * [GameScope](https://rajeshsureddi.github.io/GameScope/) - Gaming video quality dataset: 4,048 UGC and PGC clips from 74 games, encoded with H.264, H.265 and AV1, each with about 37 mean opinion scores plus quality attributes. [Paper](https://arxiv.org/abs/2605.01272), [Code](https://github.com/rajeshsureddi/GameScope) ⭐ 1 | 🐛 1 | 🌐 CSS | 📅 2026-05-05.
 * [Scrabble](https://github.com/onzie9/Quackle_Self_Play) ⭐ 1 | 🐛 0 | 📅 2019-01-26 - Data Quackle game matches.
 * [Co-op Game Night Data](https://github.com/gegewang774-hue/coop-game-night-data) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-02 - Dated co-op game metadata with official sources, player-cap uncertainty, CSV and JSON exports, and a local filtering tool.
+* [Nash Push/Fold Ranges for Tournament Poker](https://github.com/hasuwini77/push-fold-ranges) ⭐ 0 | 🐛 0 | 📅 2026-10-12 - Chip-EV Nash shove frequency for all 169 hold'em hands at every seat, 1 to 25 big blinds.
 * [Planet Zoo 2 launch dataset](https://github.com/odebo/planet-zoo-2-dataset) ⭐ 0 | 🐛 0 | 📅 2026-10-11 - Species data with biome, enclosure, taxonomy and conservation fields, plus a pairwise cohabitation compatibility matrix.
 * [(LoL) League of Legends Ranked Games](https://www.kaggle.com/datasnaek/league-of-legends) - Matches details from ranked games.
 * [17K Mobile Strategy Games](https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games) - Strategy games from the Apple App Store.
@@ -204,7 +205,6 @@ API is *"a set of functions and procedures allowing the creation of applications
 * [StarCraft II matches history](https://www.kaggle.com/alimbekovkz/starcraft-ii-matches-history) - Results of matches.
 * [StarCraft II Replay Analysis](https://www.kaggle.com/sfu-summit/starcraft-ii-replay-analysis) - Aggregation of the replays.
 * [Starcraft: Scouting The Enemy](https://www.kaggle.com/kinguistics/starcraft-scouting-the-enemy) - Player reconnaissance in professional-level.
-* [State of Browser Games 2026](https://pixelgameshub.com/research/state-of-browser-games-2026) - Browser games industry metrics across competitor sites, downloadable as open CSV under CC-BY-4.0.
 * [Super Trunfo - Dinossaurs 2](https://www.kaggle.com/kandebonfim/super-trunfo-dinossaurs-2) - Cards of this game.
 * [Terra Mystica Snellman Statistics](https://www.kaggle.com/lemonkoala/terra-mystica) - Game logs and statistics.
 * [The Complete Pokemon Dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon) - Pokemon data from all generations.
@@ -255,8 +255,8 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Gym OpenAI](https://github.com/openai/gym) ⚠️ Archived - Game toolkit for reinforcement learning algorithms.
 * [Games on GitHub](https://github.com/leereilly/games) ⚠️ Archived - Popular videos games hosted in GitHub.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,184 | 🐛 29 | 📅 2026-08-25 - Collection of open-source games.
-* [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,169 | 🐛 8 | 📅 2026-09-23 - Games to teach programming language.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,186 | 🐛 29 | 📅 2026-08-25 - Collection of open-source games.
+* [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,168 | 🐛 8 | 📅 2026-09-23 - Games to teach programming language.
 * [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,479 | 🐛 9 | 📅 2026-09-21 - Technologies related to anime, comic and games.
 * [Awesome Esports](https://github.com/strift/awesome-esports) ⭐ 108 | 🐛 2 | 📅 2026-10-15 - Competitiosn using video games.
 * [datasets-games](https://github.com/cncplyr/datasets-games) ⭐ 14 | 🐛 0 | 📅 2026-06-10 - Datasets from a variety of games.
@@ -281,4 +281,4 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
