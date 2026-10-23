@@ -173,7 +173,7 @@
             "open_issues": 171,
             "owner": "microsoft",
             "repo": "malmo",
-            "stars": 4270,
+            "stars": 4269,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T23:10:27Z",
-            "open_issues": 448,
+            "last_commit": "2026-10-23T12:34:16Z",
+            "open_issues": 452,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3047,
+            "stars": 3048,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -316,7 +316,7 @@
             "open_issues": 61,
             "owner": "Wargus",
             "repo": "wargus",
-            "stars": 443,
+            "stars": 444,
             "topics": [
               "help-wanted"
             ]
@@ -509,7 +509,7 @@
                 "open_issues": 6,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6706,
+                "stars": 6711,
                 "topics": [
                   "android",
                   "game",
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3986,
+                "stars": 3988,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -558,7 +558,7 @@
                 "open_issues": 11,
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
-                "stars": 1835,
+                "stars": 1836,
                 "topics": [
                   "android",
                   "android-studio",
@@ -629,7 +629,7 @@
                 "open_issues": 17,
                 "owner": "robertkleffner",
                 "repo": "mariohtml5",
-                "stars": 532,
+                "stars": 533,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -871,7 +871,7 @@
             "id": 1002079658,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T17:41:37Z",
+            "last_commit": "2026-10-23T10:45:26Z",
             "open_issues": 27,
             "owner": "diogoseca",
             "repo": "bjjgraph",
@@ -1111,7 +1111,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37237,
+            "stars": 37235,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -1132,7 +1132,7 @@
             "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24979,
+            "stars": 24983,
             "topics": [
               "game",
               "game-development",
@@ -1160,7 +1160,7 @@
             "open_issues": 32,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3190,
+            "stars": 3193,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1285,7 +1285,7 @@
             "id": 1408130316,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-20T14:17:49Z",
+            "last_commit": "2026-10-23T08:23:47Z",
             "open_issues": 0,
             "owner": "playersells",
             "repo": "open-data",
@@ -1310,7 +1310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T15:40:26.118Z",
+    "last_updated": "2026-10-23T15:29:13.343Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
