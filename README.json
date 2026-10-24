@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T12:34:16Z",
-            "open_issues": 452,
+            "last_commit": "2026-10-23T21:33:15Z",
+            "open_issues": 454,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3048,
+            "stars": 3047,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -232,7 +232,7 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-21T23:10:59Z",
+            "last_commit": "2026-10-24T13:40:24Z",
             "open_issues": 48,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
@@ -262,8 +262,8 @@
             "id": 313767611,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-16T04:34:20Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-23T23:55:19Z",
+            "open_issues": 22,
             "owner": "microsoft",
             "repo": "CyberBattleSim",
             "stars": 1800,
@@ -316,7 +316,7 @@
             "open_issues": 61,
             "owner": "Wargus",
             "repo": "wargus",
-            "stars": 444,
+            "stars": 445,
             "topics": [
               "help-wanted"
             ]
@@ -509,7 +509,7 @@
                 "open_issues": 6,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6711,
+                "stars": 6712,
                 "topics": [
                   "android",
                   "game",
@@ -798,7 +798,7 @@
             "open_issues": 1,
             "owner": "Biuni",
             "repo": "PokemonGO-Pokedex",
-            "stars": 134,
+            "stars": 133,
             "topics": [
               "json",
               "pokedex",
@@ -871,11 +871,11 @@
             "id": 1002079658,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T10:45:26Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-24T14:02:11Z",
+            "open_issues": 26,
             "owner": "diogoseca",
             "repo": "bjjgraph",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "bjj",
               "brazilian-jiu-jitsu",
@@ -1111,7 +1111,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37235,
+            "stars": 37234,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -1132,7 +1132,7 @@
             "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24983,
+            "stars": 24985,
             "topics": [
               "game",
               "game-development",
@@ -1160,7 +1160,7 @@
             "open_issues": 32,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3193,
+            "stars": 3195,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1310,7 +1310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:29:13.343Z",
+    "last_updated": "2026-10-24T14:07:38.621Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
@@ -1319,10 +1319,10 @@
       "language": null,
       "license": "CC-BY-4.0",
       "last_commit": "2026-10-17T17:43:40Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "leomaurodesenv",
       "repo": "game-datasets",
-      "stars": 1137,
+      "stars": 1138,
       "topics": [
         "artificial-intelligence",
         "awesome",
