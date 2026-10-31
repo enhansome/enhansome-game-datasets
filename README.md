@@ -69,11 +69,11 @@ API is *"a set of functions and procedures allowing the creation of applications
 * [Malmo](https://github.com/Microsoft/malmo) ⚠️ Archived - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 * [Retro Contest](https://github.com/openai/retro) ⚠️ Archived - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
 * [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 3,056 | 🐛 460 | 🌐 C++ | 📅 2026-10-30 - Roguelike adventure.
-* [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 2,105 | 🐛 47 | 🌐 C++ | 📅 2026-10-29 - Doom game competition.
+* [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 2,106 | 🐛 47 | 🌐 C++ | 📅 2026-10-29 - Doom game competition.
 * [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,803 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2026-10-30 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 * [qengine](https://github.com/klaussilveira/qengine) ⭐ 891 | 🐛 8 | 🌐 C | 📅 2026-08-24 - Retro game engine.
 * [Wargus](https://github.com/Wargus/wargus) ⭐ 446 | 🐛 61 | 🌐 C | 📅 2026-10-10 - Real-time strategy game. [Website](https://wargus.github.io/).
-* [microRTS](https://github.com/santiontanon/microrts) ⭐ 366 | 🐛 4 | 🌐 Java | 📅 2025-08-11 - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2021-06-08.
+* [microRTS](https://github.com/santiontanon/microrts) ⭐ 368 | 🐛 4 | 🌐 Java | 📅 2025-08-11 - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2021-06-08.
 * [polyworld](https://github.com/polyworld/polyworld) ⭐ 214 | 🐛 3 | 🌐 C++ | 📅 2025-09-21 - Artificial life system.
 * [Text-Based Adventure AI Competition](https://github.com/Atkrye/IEEE-CIG-Text-Adventurer-Competition) ⭐ 29 | 🐛 3 | 🌐 Java | 📅 2018-07-27 - Text-adventure game competition. [Website](http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/).
 * [Dungeon and Cave Generation](https://github.com/sentientdesigns/constructive) ⭐ 21 | 🐛 0 | 🌐 Processing | 📅 2018-02-08 - Constructive generation methods for dungeons and levels.
@@ -99,8 +99,8 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,739 | 🐛 6 | 🌐 Java | 📅 2026-10-07 - Improved Pixel Dungeon.
-* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,993 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,745 | 🐛 7 | 🌐 Java | 📅 2026-10-07 - Improved Pixel Dungeon.
+* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,994 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
 * [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,839 | 🐛 11 | 🌐 Kotlin | 📅 2026-10-30 - Gamify your life.
 
 ### Web
@@ -139,7 +139,7 @@ API is *"a set of functions and procedures allowing the creation of applications
 * [bravefrontier\_data](https://github.com/cheahjs/bravefrontier_data) ⚠️ Archived - Mobile game data, items and missions information.
 * [BJJGraph](https://github.com/diogoseca/bjjgraph) ⭐ 34 | 🐛 32 | 🌐 JavaScript | 📅 2026-10-30 - Transition graph behind a Brazilian jiu-jitsu sparring game, with estimated gi and no-gi outcome probabilities.
 * [GamingVideoSET](https://github.com/NabajeetBarman/GamingHDRVideoSET) ⭐ 7 | 🐛 0 | 📅 2025-05-08 - A Dataset for Gaming Video Streaming Applications. [Paper](https://ieeexplore.ieee.org/document/8463362)
-* [OSTDB](https://github.com/OSTDB/soundtracks) ⭐ 3 | 🐛 101 | 📅 2026-10-30 - Official video game soundtracks (2,300+ albums for 1,800+ games) with Spotify, Apple Music and album.link URLs, as CSV, JSON and SQLite. [Website](https://ostdb.net), [API](https://ostdb.net/api).
+* [OSTDB](https://github.com/OSTDB/soundtracks) ⭐ 3 | 🐛 104 | 📅 2026-10-31 - Official video game soundtracks (2,300+ albums for 1,800+ games) with Spotify, Apple Music and album.link URLs, as CSV, JSON and SQLite. [Website](https://ostdb.net), [API](https://ostdb.net/api).
 * [GameScope](https://rajeshsureddi.github.io/GameScope/) - Gaming video quality dataset: 4,048 UGC and PGC clips from 74 games, encoded with H.264, H.265 and AV1, each with about 37 mean opinion scores plus quality attributes. [Paper](https://arxiv.org/abs/2605.01272), [Code](https://github.com/rajeshsureddi/GameScope) ⭐ 1 | 🐛 1 | 🌐 CSS | 📅 2026-05-05.
 * [Scrabble](https://github.com/onzie9/Quackle_Self_Play) ⭐ 1 | 🐛 0 | 📅 2019-01-26 - Data Quackle game matches.
 * [Co-op Game Night Data](https://github.com/gegewang774-hue/coop-game-night-data) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-02 - Dated co-op game metadata with official sources, player-cap uncertainty, CSV and JSON exports, and a local filtering tool.
@@ -256,7 +256,7 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Gym OpenAI](https://github.com/openai/gym) ⚠️ Archived - Game toolkit for reinforcement learning algorithms.
 * [Games on GitHub](https://github.com/leereilly/games) ⚠️ Archived - Popular videos games hosted in GitHub.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,204 | 🐛 37 | 📅 2026-08-25 - Collection of open-source games.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,205 | 🐛 37 | 📅 2026-08-25 - Collection of open-source games.
 * [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,168 | 🐛 9 | 📅 2026-09-23 - Games to teach programming language.
 * [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,480 | 🐛 13 | 📅 2026-09-21 - Technologies related to anime, comic and games.
 * [Awesome Esports](https://github.com/strift/awesome-esports) ⭐ 108 | 🐛 3 | 📅 2026-10-20 - Competitiosn using video games.
@@ -282,4 +282,4 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
