@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T22:33:09Z",
-            "open_issues": 463,
+            "last_commit": "2026-11-03T00:36:32Z",
+            "open_issues": 466,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3057,
+            "stars": 3058,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -236,7 +236,7 @@
             "open_issues": 48,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2107,
+            "stars": 2109,
             "topics": [
               "deep-learning",
               "doom",
@@ -312,11 +312,11 @@
             "id": 46502582,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-10T14:27:35Z",
-            "open_issues": 61,
+            "last_commit": "2026-11-03T15:51:26Z",
+            "open_issues": 59,
             "owner": "Wargus",
             "repo": "wargus",
-            "stars": 446,
+            "stars": 448,
             "topics": [
               "help-wanted"
             ]
@@ -509,7 +509,7 @@
                 "open_issues": 9,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6750,
+                "stars": 6755,
                 "topics": [
                   "android",
                   "game",
@@ -554,7 +554,7 @@
                 "id": 31075682,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-02T16:05:37Z",
+                "last_commit": "2026-11-03T17:35:48Z",
                 "open_issues": 11,
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
@@ -732,7 +732,7 @@
             "open_issues": 32,
             "owner": "googlecreativelab",
             "repo": "quickdraw-dataset",
-            "stars": 6796,
+            "stars": 6795,
             "topics": [
               "dataset",
               "quickdraw-dataset"
@@ -928,8 +928,8 @@
             "id": 1345682647,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T20:31:04Z",
-            "open_issues": 169,
+            "last_commit": "2026-11-03T18:02:56Z",
+            "open_issues": 122,
             "owner": "OSTDB",
             "repo": "soundtracks",
             "stars": 4,
@@ -1146,7 +1146,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37231,
+            "stars": 37230,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -1195,7 +1195,7 @@
             "open_issues": 38,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3209,
+            "stars": 3211,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1320,7 +1320,7 @@
             "id": 1408130316,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-27T08:25:17Z",
+            "last_commit": "2026-11-03T08:34:00Z",
             "open_issues": 0,
             "owner": "playersells",
             "repo": "open-data",
@@ -1345,7 +1345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T20:31:03.747Z",
+    "last_updated": "2026-11-03T18:03:54.747Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
