@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T18:05:09Z",
+            "last_commit": "2026-11-06T03:56:17Z",
             "open_issues": 468,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3062,
+            "stars": 3063,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -233,10 +233,10 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-11-05T04:24:30Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2109,
+            "stars": 2111,
             "topics": [
               "deep-learning",
               "doom",
@@ -266,7 +266,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "CyberBattleSim",
-            "stars": 1805,
+            "stars": 1804,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -287,7 +287,7 @@
             "open_issues": 8,
             "owner": "klaussilveira",
             "repo": "qengine",
-            "stars": 892,
+            "stars": 893,
             "topics": [
               "3d-engine",
               "3d-game",
@@ -312,8 +312,8 @@
             "id": 46502582,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-03T15:51:26Z",
-            "open_issues": 59,
+            "last_commit": "2026-11-06T17:21:49Z",
+            "open_issues": 58,
             "owner": "Wargus",
             "repo": "wargus",
             "stars": 448,
@@ -339,7 +339,7 @@
             "open_issues": 4,
             "owner": "Farama-Foundation",
             "repo": "MicroRTS",
-            "stars": 368,
+            "stars": 369,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -360,7 +360,7 @@
             "open_issues": 3,
             "owner": "polyworld",
             "repo": "polyworld",
-            "stars": 214,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -506,10 +506,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-07T16:13:50Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6764,
+                "stars": 6767,
                 "topics": [
                   "android",
                   "game",
@@ -554,11 +554,11 @@
                 "id": 31075682,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T13:09:12Z",
+                "last_commit": "2026-11-06T01:28:28Z",
                 "open_issues": 12,
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
-                "stars": 1841,
+                "stars": 1839,
                 "topics": [
                   "android",
                   "android-studio",
@@ -732,7 +732,7 @@
             "open_issues": 32,
             "owner": "googlecreativelab",
             "repo": "quickdraw-dataset",
-            "stars": 6795,
+            "stars": 6796,
             "topics": [
               "dataset",
               "quickdraw-dataset"
@@ -871,8 +871,8 @@
             "id": 1002079658,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T18:00:44Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-06T16:09:07Z",
+            "open_issues": 29,
             "owner": "diogoseca",
             "repo": "bjjgraph",
             "stars": 35,
@@ -928,8 +928,8 @@
             "id": 1345682647,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T18:17:05Z",
-            "open_issues": 126,
+            "last_commit": "2026-11-06T17:36:43Z",
+            "open_issues": 192,
             "owner": "OSTDB",
             "repo": "soundtracks",
             "stars": 4,
@@ -1195,7 +1195,7 @@
             "open_issues": 39,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3213,
+            "stars": 3212,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1222,7 +1222,7 @@
             "open_issues": 9,
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
-            "stars": 2170,
+            "stars": 2169,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1246,11 +1246,11 @@
             "id": 55614000,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-11-01T00:50:34Z",
+            "last_commit": "2026-11-06T04:52:30Z",
             "open_issues": 13,
             "owner": "soruly",
             "repo": "awesome-acg",
-            "stars": 1480,
+            "stars": 1478,
             "topics": [
               "anime",
               "awesome",
@@ -1345,7 +1345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T18:17:07.754Z",
+    "last_updated": "2026-11-06T17:41:11.254Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
@@ -1357,7 +1357,7 @@
       "open_issues": 7,
       "owner": "leomaurodesenv",
       "repo": "game-datasets",
-      "stars": 1144,
+      "stars": 1143,
       "topics": [
         "artificial-intelligence",
         "awesome",
