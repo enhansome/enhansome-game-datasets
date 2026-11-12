@@ -212,10 +212,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-11T17:49:55Z",
-            "open_issues": 475,
+            "open_issues": 478,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3076,
+            "stars": 3077,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -232,7 +232,7 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-11-05T04:24:30Z",
+            "last_commit": "2026-11-12T11:08:16Z",
             "open_issues": 49,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
@@ -287,7 +287,7 @@
             "open_issues": 8,
             "owner": "klaussilveira",
             "repo": "qengine",
-            "stars": 891,
+            "stars": 892,
             "topics": [
               "3d-engine",
               "3d-game",
@@ -509,7 +509,7 @@
                 "open_issues": 10,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6786,
+                "stars": 6788,
                 "topics": [
                   "android",
                   "game",
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 3996,
+                "stars": 3998,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -871,8 +871,8 @@
             "id": 1002079658,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T17:59:11Z",
-            "open_issues": 32,
+            "last_commit": "2026-11-12T18:28:18Z",
+            "open_issues": 34,
             "owner": "diogoseca",
             "repo": "bjjgraph",
             "stars": 37,
@@ -928,8 +928,8 @@
             "id": 1345682647,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T18:04:32Z",
-            "open_issues": 369,
+            "last_commit": "2026-11-12T18:35:23Z",
+            "open_issues": 121,
             "owner": "OSTDB",
             "repo": "soundtracks",
             "stars": 5,
@@ -1146,7 +1146,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37235,
+            "stars": 37234,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -1167,7 +1167,7 @@
             "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 25005,
+            "stars": 25003,
             "topics": [
               "game",
               "game-development",
@@ -1195,7 +1195,7 @@
             "open_issues": 40,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3217,
+            "stars": 3218,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1218,8 +1218,8 @@
             "id": 80900906,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-23T16:17:08Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-11T21:46:24Z",
+            "open_issues": 0,
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
             "stars": 2171,
@@ -1250,7 +1250,7 @@
             "open_issues": 15,
             "owner": "soruly",
             "repo": "awesome-acg",
-            "stars": 1480,
+            "stars": 1481,
             "topics": [
               "anime",
               "awesome",
@@ -1345,7 +1345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T18:04:46.583Z",
+    "last_updated": "2026-11-12T18:36:21.252Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
@@ -1357,7 +1357,7 @@
       "open_issues": 8,
       "owner": "leomaurodesenv",
       "repo": "game-datasets",
-      "stars": 1145,
+      "stars": 1146,
       "topics": [
         "artificial-intelligence",
         "awesome",
