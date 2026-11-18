@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T19:01:17Z",
-            "open_issues": 472,
+            "last_commit": "2026-11-18T01:32:47Z",
+            "open_issues": 474,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3080,
+            "stars": 3081,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -266,7 +266,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "CyberBattleSim",
-            "stars": 1806,
+            "stars": 1805,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -506,10 +506,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-10T19:16:57Z",
-                "open_issues": 13,
+                "open_issues": 12,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6819,
+                "stars": 6827,
                 "topics": [
                   "android",
                   "game",
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 4000,
+                "stars": 4003,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -871,8 +871,8 @@
             "id": 1002079658,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T19:18:59Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-18T18:21:17Z",
+            "open_issues": 30,
             "owner": "diogoseca",
             "repo": "bjjgraph",
             "stars": 38,
@@ -928,8 +928,8 @@
             "id": 1345682647,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T19:20:09Z",
-            "open_issues": 231,
+            "last_commit": "2026-11-18T19:05:40Z",
+            "open_issues": 121,
             "owner": "OSTDB",
             "repo": "soundtracks",
             "stars": 5,
@@ -1146,7 +1146,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37239,
+            "stars": 37238,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -1192,10 +1192,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3229,
+            "stars": 3228,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1247,7 +1247,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-07T11:29:12Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "soruly",
             "repo": "awesome-acg",
             "stars": 1483,
@@ -1345,7 +1345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:25:23.580Z",
+    "last_updated": "2026-11-18T19:06:05.959Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
