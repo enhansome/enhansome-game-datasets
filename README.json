@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T06:41:12Z",
-            "open_issues": 469,
+            "last_commit": "2026-11-21T16:47:49Z",
+            "open_issues": 474,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3081,
+            "stars": 3083,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -232,8 +232,8 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-11-16T23:08:42Z",
-            "open_issues": 40,
+            "last_commit": "2026-11-21T12:28:22Z",
+            "open_issues": 42,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
             "stars": 2111,
@@ -509,7 +509,7 @@
                 "open_issues": 12,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6837,
+                "stars": 6841,
                 "topics": [
                   "android",
                   "game",
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 4003,
+                "stars": 4002,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -554,11 +554,11 @@
                 "id": 31075682,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T12:48:17Z",
+                "last_commit": "2026-11-21T16:56:02Z",
                 "open_issues": 6,
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
-                "stars": 1841,
+                "stars": 1842,
                 "topics": [
                   "android",
                   "android-studio",
@@ -928,8 +928,8 @@
             "id": 1345682647,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T18:50:36Z",
-            "open_issues": 127,
+            "last_commit": "2026-11-21T17:46:43Z",
+            "open_issues": 129,
             "owner": "OSTDB",
             "repo": "soundtracks",
             "stars": 6,
@@ -1146,7 +1146,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37236,
+            "stars": 37237,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -1167,7 +1167,7 @@
             "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 25012,
+            "stars": 25015,
             "topics": [
               "game",
               "game-development",
@@ -1192,7 +1192,7 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
             "stars": 3229,
@@ -1247,7 +1247,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-07T11:29:12Z",
-            "open_issues": 17,
+            "open_issues": 16,
             "owner": "soruly",
             "repo": "awesome-acg",
             "stars": 1483,
@@ -1345,7 +1345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T18:51:05.467Z",
+    "last_updated": "2026-11-21T17:46:48.900Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
