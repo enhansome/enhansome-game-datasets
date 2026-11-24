@@ -68,7 +68,7 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Malmo](https://github.com/Microsoft/malmo) ⚠️ Archived - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 * [Retro Contest](https://github.com/openai/retro) ⚠️ Archived - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
-* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 3,084 | 🐛 474 | 🌐 C++ | 📅 2026-11-23 - Roguelike adventure.
+* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 3,085 | 🐛 477 | 🌐 C++ | 📅 2026-11-24 - Roguelike adventure.
 * [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 2,113 | 🐛 39 | 🌐 C++ | 📅 2026-11-23 - Doom game competition.
 * [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,804 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2026-11-13 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 * [qengine](https://github.com/klaussilveira/qengine) ⭐ 893 | 🐛 8 | 🌐 C | 📅 2026-08-24 - Retro game engine.
@@ -99,9 +99,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,859 | 🐛 11 | 🌐 Java | 📅 2026-11-22 - Improved Pixel Dungeon.
-* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 4,002 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
-* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,842 | 🐛 6 | 🌐 Kotlin | 📅 2026-11-23 - Gamify your life.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,864 | 🐛 12 | 🌐 Java | 📅 2026-11-22 - Improved Pixel Dungeon.
+* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 4,003 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
+* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,845 | 🐛 7 | 🌐 Kotlin | 📅 2026-11-24 - Gamify your life.
 
 ### Web
 
@@ -137,9 +137,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 * [Pokémon GO Pokédex](https://github.com/Biuni/PokemonGO-Pokedex) ⭐ 133 | 🐛 1 | 📅 2017-01-28 - Encyclopedia Pokemon.
 * [dnddata](https://github.com/oganm/dnddata) ⭐ 123 | 🐛 2 | 🌐 R | 📅 2022-08-24 - Dataset of Dungeons and Dragons characters.
 * [bravefrontier\_data](https://github.com/cheahjs/bravefrontier_data) ⚠️ Archived - Mobile game data, items and missions information.
-* [BJJGraph](https://github.com/diogoseca/bjjgraph) ⭐ 38 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-23 - Transition graph behind a Brazilian jiu-jitsu sparring game, with estimated gi and no-gi outcome probabilities.
-* [GamingVideoSET](https://github.com/NabajeetBarman/GamingHDRVideoSET) ⭐ 7 | 🐛 0 | 📅 2025-05-08 - A Dataset for Gaming Video Streaming Applications. [Paper](https://ieeexplore.ieee.org/document/8463362)
-* [OSTDB](https://github.com/OSTDB/soundtracks) ⭐ 6 | 🐛 133 | 📅 2026-11-23 - Official video game soundtracks (2,300+ albums for 1,800+ games) with Spotify, Apple Music and album.link URLs, as CSV, JSON and SQLite. [Website](https://ostdb.net), [API](https://ostdb.net/api).
+* [BJJGraph](https://github.com/diogoseca/bjjgraph) ⭐ 38 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-24 - Transition graph behind a Brazilian jiu-jitsu sparring game, with estimated gi and no-gi outcome probabilities.
+* [GamingVideoSET](https://github.com/NabajeetBarman/GamingHDRVideoSET) ⭐ 8 | 🐛 0 | 📅 2025-05-08 - A Dataset for Gaming Video Streaming Applications. [Paper](https://ieeexplore.ieee.org/document/8463362)
+* [OSTDB](https://github.com/OSTDB/soundtracks) ⭐ 6 | 🐛 134 | 📅 2026-11-24 - Official video game soundtracks (2,300+ albums for 1,800+ games) with Spotify, Apple Music and album.link URLs, as CSV, JSON and SQLite. [Website](https://ostdb.net), [API](https://ostdb.net/api).
 * [Nash Push/Fold Ranges for Tournament Poker](https://github.com/hasuwini77/push-fold-ranges) ⭐ 2 | 🐛 0 | 📅 2026-10-12 - Chip-EV Nash shove frequency for all 169 hold'em hands at every seat, 1 to 25 big blinds.
 * [GameScope](https://rajeshsureddi.github.io/GameScope/) - Gaming video quality dataset: 4,048 UGC and PGC clips from 74 games, encoded with H.264, H.265 and AV1, each with about 37 mean opinion scores plus quality attributes. [Paper](https://arxiv.org/abs/2605.01272), [Code](https://github.com/rajeshsureddi/GameScope) ⭐ 1 | 🐛 1 | 🌐 CSS | 📅 2026-05-05.
 * [Scrabble](https://github.com/onzie9/Quackle_Self_Play) ⭐ 1 | 🐛 0 | 📅 2019-01-26 - Data Quackle game matches.
@@ -256,10 +256,10 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Gym OpenAI](https://github.com/openai/gym) ⚠️ Archived - Game toolkit for reinforcement learning algorithms.
 * [Games on GitHub](https://github.com/leereilly/games) ⚠️ Archived - Popular videos games hosted in GitHub.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,234 | 🐛 47 | 📅 2026-08-25 - Collection of open-source games.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,235 | 🐛 47 | 📅 2026-08-25 - Collection of open-source games.
 * [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,176 | 🐛 0 | 📅 2026-11-11 - Games to teach programming language.
 * [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,483 | 🐛 16 | 📅 2026-11-07 - Technologies related to anime, comic and games.
-* [Awesome Esports](https://github.com/strift/awesome-esports) ⭐ 108 | 🐛 4 | 📅 2026-10-20 - Competitiosn using video games.
+* [Awesome Esports](https://github.com/strift/awesome-esports) ⭐ 107 | 🐛 3 | 📅 2026-11-24 - Competitiosn using video games.
 * [datasets-games](https://github.com/cncplyr/datasets-games) ⭐ 14 | 🐛 0 | 📅 2026-06-10 - Datasets from a variety of games.
 * [PlayerSells Open Data](https://github.com/playersells/open-data/) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-17 - Measured streaming and creator datasets: Kick and Twitch viewing by category, simulcasting, and follower and engagement benchmarks (CC BY 4.0).
 * [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
@@ -282,4 +282,4 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

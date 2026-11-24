@@ -173,7 +173,7 @@
             "open_issues": 171,
             "owner": "microsoft",
             "repo": "malmo",
-            "stars": 4264,
+            "stars": 4265,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T17:15:42Z",
-            "open_issues": 474,
+            "last_commit": "2026-11-24T11:40:27Z",
+            "open_issues": 477,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3084,
+            "stars": 3085,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -506,10 +506,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-22T00:18:52Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6859,
+                "stars": 6864,
                 "topics": [
                   "android",
                   "game",
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 4002,
+                "stars": 4003,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -554,11 +554,11 @@
                 "id": 31075682,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-23T12:19:12Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-24T16:37:42Z",
+                "open_issues": 7,
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
-                "stars": 1842,
+                "stars": 1845,
                 "topics": [
                   "android",
                   "android-studio",
@@ -871,7 +871,7 @@
             "id": 1002079658,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T20:20:42Z",
+            "last_commit": "2026-11-24T20:43:13Z",
             "open_issues": 28,
             "owner": "diogoseca",
             "repo": "bjjgraph",
@@ -911,7 +911,7 @@
             "open_issues": 0,
             "owner": "NabajeetBarman",
             "repo": "GamingHDRVideoSET",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -928,8 +928,8 @@
             "id": 1345682647,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T22:06:00Z",
-            "open_issues": 133,
+            "last_commit": "2026-11-24T18:41:14Z",
+            "open_issues": 134,
             "owner": "OSTDB",
             "repo": "soundtracks",
             "stars": 6,
@@ -1167,7 +1167,7 @@
             "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 25020,
+            "stars": 25023,
             "topics": [
               "game",
               "game-development",
@@ -1195,7 +1195,7 @@
             "open_issues": 47,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3234,
+            "stars": 3235,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1271,11 +1271,11 @@
             "id": 412132952,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-20T02:33:33Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-24T03:43:43Z",
+            "open_issues": 3,
             "owner": "Strift",
             "repo": "awesome-esports",
-            "stars": 108,
+            "stars": 107,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1345,7 +1345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:14:46.180Z",
+    "last_updated": "2026-11-24T20:53:02.780Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
