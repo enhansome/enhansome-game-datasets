@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T11:40:27Z",
-            "open_issues": 477,
+            "last_commit": "2026-11-25T17:10:53Z",
+            "open_issues": 475,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3085,
+            "stars": 3086,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -316,7 +316,7 @@
             "open_issues": 56,
             "owner": "Wargus",
             "repo": "wargus",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "help-wanted"
             ]
@@ -505,11 +505,11 @@
                 "id": 22486533,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-22T00:18:52Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-25T19:38:17Z",
+                "open_issues": 5,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6864,
+                "stars": 6866,
                 "topics": [
                   "android",
                   "game",
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 4003,
+                "stars": 4002,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -598,7 +598,7 @@
                 "open_issues": 14,
                 "owner": "MattSurabian",
                 "repo": "DuckHunt-JS",
-                "stars": 638,
+                "stars": 639,
                 "topics": [
                   "audio",
                   "canvas",
@@ -871,8 +871,8 @@
             "id": 1002079658,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T20:43:13Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-25T20:06:06Z",
+            "open_issues": 29,
             "owner": "diogoseca",
             "repo": "bjjgraph",
             "stars": 38,
@@ -928,8 +928,8 @@
             "id": 1345682647,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T18:41:14Z",
-            "open_issues": 134,
+            "last_commit": "2026-11-25T18:41:14Z",
+            "open_issues": 140,
             "owner": "OSTDB",
             "repo": "soundtracks",
             "stars": 6,
@@ -1146,7 +1146,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37234,
+            "stars": 37235,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -1167,7 +1167,7 @@
             "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 25023,
+            "stars": 25020,
             "topics": [
               "game",
               "game-development",
@@ -1192,10 +1192,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 47,
+            "open_issues": 49,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3235,
+            "stars": 3236,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1247,7 +1247,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-07T11:29:12Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "soruly",
             "repo": "awesome-acg",
             "stars": 1483,
@@ -1275,7 +1275,7 @@
             "open_issues": 3,
             "owner": "Strift",
             "repo": "awesome-esports",
-            "stars": 107,
+            "stars": 106,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1345,7 +1345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T20:53:02.780Z",
+    "last_updated": "2026-11-25T20:12:47.837Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
@@ -1354,7 +1354,7 @@
       "language": null,
       "license": "CC-BY-4.0",
       "last_commit": "2026-10-25T21:38:10Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "leomaurodesenv",
       "repo": "game-datasets",
       "stars": 1146,
