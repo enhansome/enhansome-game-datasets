@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T17:10:53Z",
-            "open_issues": 475,
+            "last_commit": "2026-11-26T08:32:46Z",
+            "open_issues": 476,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3086,
+            "stars": 3087,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -232,11 +232,11 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-11-23T21:02:20Z",
+            "last_commit": "2026-11-26T19:06:01Z",
             "open_issues": 39,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2113,
+            "stars": 2114,
             "topics": [
               "deep-learning",
               "doom",
@@ -509,7 +509,7 @@
                 "open_issues": 5,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6866,
+                "stars": 6875,
                 "topics": [
                   "android",
                   "game",
@@ -537,7 +537,7 @@
                 "open_issues": 58,
                 "owner": "watabou",
                 "repo": "pixel-dungeon",
-                "stars": 4002,
+                "stars": 4001,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:23.184Z"
@@ -555,7 +555,7 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-24T16:37:42Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "HabitRPG",
                 "repo": "habitica-android",
                 "stars": 1845,
@@ -871,8 +871,8 @@
             "id": 1002079658,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T20:06:06Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-26T14:32:14Z",
+            "open_issues": 28,
             "owner": "diogoseca",
             "repo": "bjjgraph",
             "stars": 38,
@@ -928,8 +928,8 @@
             "id": 1345682647,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T18:41:14Z",
-            "open_issues": 140,
+            "last_commit": "2026-11-26T18:41:14Z",
+            "open_issues": 141,
             "owner": "OSTDB",
             "repo": "soundtracks",
             "stars": 6,
@@ -976,6 +976,38 @@
             ]
           },
           "first_seen": "2026-10-18T14:09:57.795Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Boltshorts Mobile Games Data",
+          "description": "Store facts for ~8,000 iPhone and Android games from the US App Store and Google Play: ratings, downloads, prices, ads and in-app purchase labels, download sizes and chart positions, with dated snapshots. CSV, CC BY 4.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Store facts for ~8,000 iPhone and Android games: ratings, downloads, prices, ads and in-app purchase labels, sizes and App Store chart positions. CSV, CC BY 4.0.",
+            "homepage": "https://boltshorts.com/data/",
+            "id": 1435729811,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-04T23:25:10Z",
+            "open_issues": 0,
+            "owner": "phescobbar",
+            "repo": "mobile-games-data",
+            "stars": 1,
+            "topics": [
+              "android",
+              "app-store",
+              "csv",
+              "dataset",
+              "games",
+              "google-play",
+              "iphone",
+              "mobile-games",
+              "open-data",
+              "video-games"
+            ]
+          },
+          "first_seen": "2026-11-26T19:50:16.509Z"
         },
         {
           "node_type": "item",
@@ -1146,7 +1178,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37235,
+            "stars": 37236,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -1192,10 +1224,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3236,
+            "stars": 3238,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1345,7 +1377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T20:12:47.837Z",
+    "last_updated": "2026-11-26T19:50:16.509Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
@@ -1353,8 +1385,8 @@
       "id": 151342385,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-25T21:38:10Z",
-      "open_issues": 13,
+      "last_commit": "2026-11-26T17:52:43Z",
+      "open_issues": 6,
       "owner": "leomaurodesenv",
       "repo": "game-datasets",
       "stars": 1146,
@@ -1370,7 +1402,7 @@
         "games"
       ]
     },
-    "original_repository_sha": "9f54e41fc4ce11cde298d673f5c429533985256a",
+    "original_repository_sha": "dd0bb7abdec70ebedeb834ab432822f55072e824",
     "enhanced_repository": "enhansome/enhansome-game-datasets",
     "enhanced_repository_description": null,
     "title": ":video_game: Awesome Game Datasets with stars"
