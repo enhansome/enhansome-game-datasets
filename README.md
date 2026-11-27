@@ -68,11 +68,11 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Malmo](https://github.com/Microsoft/malmo) ⚠️ Archived - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 * [Retro Contest](https://github.com/openai/retro) ⚠️ Archived - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
-* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 3,087 | 🐛 476 | 🌐 C++ | 📅 2026-11-26 - Roguelike adventure.
+* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 3,088 | 🐛 474 | 🌐 C++ | 📅 2026-11-27 - Roguelike adventure.
 * [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 2,114 | 🐛 39 | 🌐 C++ | 📅 2026-11-26 - Doom game competition.
 * [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,804 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2026-11-13 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 * [qengine](https://github.com/klaussilveira/qengine) ⭐ 893 | 🐛 8 | 🌐 C | 📅 2026-08-24 - Retro game engine.
-* [Wargus](https://github.com/Wargus/wargus) ⭐ 453 | 🐛 56 | 🌐 Lua | 📅 2026-11-16 - Real-time strategy game. [Website](https://wargus.github.io/).
+* [Wargus](https://github.com/Wargus/wargus) ⭐ 454 | 🐛 56 | 🌐 Lua | 📅 2026-11-16 - Real-time strategy game. [Website](https://wargus.github.io/).
 * [microRTS](https://github.com/santiontanon/microrts) ⭐ 369 | 🐛 4 | 🌐 Java | 📅 2025-08-11 - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2021-06-08.
 * [polyworld](https://github.com/polyworld/polyworld) ⭐ 215 | 🐛 3 | 🌐 C++ | 📅 2025-09-21 - Artificial life system.
 * [Text-Based Adventure AI Competition](https://github.com/Atkrye/IEEE-CIG-Text-Adventurer-Competition) ⭐ 29 | 🐛 3 | 🌐 Java | 📅 2018-07-27 - Text-adventure game competition. [Website](http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/).
@@ -98,7 +98,7 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,875 | 🐛 5 | 🌐 Java | 📅 2026-11-25 - Improved Pixel Dungeon.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,882 | 🐛 4 | 🌐 Java | 📅 2026-11-25 - Improved Pixel Dungeon.
 * [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 4,001 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
 * [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,845 | 🐛 8 | 🌐 Kotlin | 📅 2026-11-24 - Gamify your life.
 
@@ -136,9 +136,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 * [Pokémon GO Pokédex](https://github.com/Biuni/PokemonGO-Pokedex) ⭐ 133 | 🐛 1 | 📅 2017-01-28 - Encyclopedia Pokemon.
 * [dnddata](https://github.com/oganm/dnddata) ⭐ 123 | 🐛 2 | 🌐 R | 📅 2022-08-24 - Dataset of Dungeons and Dragons characters.
 * [bravefrontier\_data](https://github.com/cheahjs/bravefrontier_data) ⚠️ Archived - Mobile game data, items and missions information.
-* [BJJGraph](https://github.com/diogoseca/bjjgraph) ⭐ 38 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-26 - Transition graph behind a Brazilian jiu-jitsu sparring game, with estimated gi and no-gi outcome probabilities.
+* [BJJGraph](https://github.com/diogoseca/bjjgraph) ⭐ 38 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-27 - Transition graph behind a Brazilian jiu-jitsu sparring game, with estimated gi and no-gi outcome probabilities.
 * [GamingVideoSET](https://github.com/NabajeetBarman/GamingHDRVideoSET) ⭐ 8 | 🐛 0 | 📅 2025-05-08 - A Dataset for Gaming Video Streaming Applications. [Paper](https://ieeexplore.ieee.org/document/8463362)
-* [OSTDB](https://github.com/OSTDB/soundtracks) ⭐ 6 | 🐛 141 | 📅 2026-11-26 - Official video game soundtracks (2,300+ albums for 1,800+ games) with Spotify, Apple Music and album.link URLs, as CSV, JSON and SQLite. [Website](https://ostdb.net), [API](https://ostdb.net/api).
+* [OSTDB](https://github.com/OSTDB/soundtracks) ⭐ 6 | 🐛 142 | 📅 2026-11-27 - Official video game soundtracks (2,300+ albums for 1,800+ games) with Spotify, Apple Music and album.link URLs, as CSV, JSON and SQLite. [Website](https://ostdb.net), [API](https://ostdb.net/api).
 * [Nash Push/Fold Ranges for Tournament Poker](https://github.com/hasuwini77/push-fold-ranges) ⭐ 2 | 🐛 0 | 📅 2026-10-12 - Chip-EV Nash shove frequency for all 169 hold'em hands at every seat, 1 to 25 big blinds.
 * [Boltshorts Mobile Games Data](https://github.com/phescobbar/mobile-games-data) ⭐ 1 | 🐛 0 | 📅 2026-11-04 - Store facts for \~8,000 iPhone and Android games from the US App Store and Google Play: ratings, downloads, prices, ads and in-app purchase labels, download sizes and chart positions, with dated snapshots. CSV, CC BY 4.0.
 * [GameScope](https://rajeshsureddi.github.io/GameScope/) - Gaming video quality dataset: 4,048 UGC and PGC clips from 74 games, encoded with H.264, H.265 and AV1, each with about 37 mean opinion scores plus quality attributes. [Paper](https://arxiv.org/abs/2605.01272), [Code](https://github.com/rajeshsureddi/GameScope) ⭐ 1 | 🐛 1 | 🌐 CSS | 📅 2026-05-05.
@@ -259,12 +259,12 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Gym OpenAI](https://github.com/openai/gym) ⚠️ Archived - Game toolkit for reinforcement learning algorithms.
 * [Games on GitHub](https://github.com/leereilly/games) ⚠️ Archived - Popular videos games hosted in GitHub.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,238 | 🐛 50 | 📅 2026-08-25 - Collection of open-source games.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,239 | 🐛 51 | 📅 2026-08-25 - Collection of open-source games.
 * [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,176 | 🐛 0 | 📅 2026-11-11 - Games to teach programming language.
-* [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,483 | 🐛 17 | 📅 2026-11-07 - Technologies related to anime, comic and games.
-* [Awesome Esports](https://github.com/strift/awesome-esports) ⭐ 106 | 🐛 3 | 📅 2026-11-24 - Competitiosn using video games.
+* [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,483 | 🐛 19 | 📅 2026-11-07 - Technologies related to anime, comic and games.
+* [Awesome Esports](https://github.com/strift/awesome-esports) ⭐ 106 | 🐛 4 | 📅 2026-11-24 - Competitiosn using video games.
 * [datasets-games](https://github.com/cncplyr/datasets-games) ⭐ 14 | 🐛 0 | 📅 2026-06-10 - Datasets from a variety of games.
-* [PlayerSells Open Data](https://github.com/playersells/open-data/) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-17 - Measured streaming and creator datasets: Kick and Twitch viewing by category, simulcasting, and follower and engagement benchmarks (CC BY 4.0).
+* [PlayerSells Open Data](https://github.com/playersells/open-data/) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-27 - Measured streaming and creator datasets: Kick and Twitch viewing by category, simulcasting, and follower and engagement benchmarks (CC BY 4.0).
 * [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
 * [AWS Datasets](https://aws.amazon.com/datasets/) - Amazon public datasets.
 * [data.world](https://data.world) - Datasets.
@@ -285,4 +285,4 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

@@ -173,7 +173,7 @@
             "open_issues": 171,
             "owner": "microsoft",
             "repo": "malmo",
-            "stars": 4265,
+            "stars": 4264,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -211,11 +211,11 @@
             "id": 23038334,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T08:32:46Z",
-            "open_issues": 476,
+            "last_commit": "2026-11-27T17:16:22Z",
+            "open_issues": 474,
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 3087,
+            "stars": 3088,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -316,7 +316,7 @@
             "open_issues": 56,
             "owner": "Wargus",
             "repo": "wargus",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "help-wanted"
             ]
@@ -506,10 +506,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-25T19:38:17Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6875,
+                "stars": 6882,
                 "topics": [
                   "android",
                   "game",
@@ -732,7 +732,7 @@
             "open_issues": 32,
             "owner": "googlecreativelab",
             "repo": "quickdraw-dataset",
-            "stars": 6798,
+            "stars": 6797,
             "topics": [
               "dataset",
               "quickdraw-dataset"
@@ -871,7 +871,7 @@
             "id": 1002079658,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T14:32:14Z",
+            "last_commit": "2026-11-27T11:45:31Z",
             "open_issues": 28,
             "owner": "diogoseca",
             "repo": "bjjgraph",
@@ -928,8 +928,8 @@
             "id": 1345682647,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T18:41:14Z",
-            "open_issues": 141,
+            "last_commit": "2026-11-27T19:39:28Z",
+            "open_issues": 142,
             "owner": "OSTDB",
             "repo": "soundtracks",
             "stars": 6,
@@ -1178,7 +1178,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37236,
+            "stars": 37234,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:23.184Z"
@@ -1224,10 +1224,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3238,
+            "stars": 3239,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1279,7 +1279,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-07T11:29:12Z",
-            "open_issues": 17,
+            "open_issues": 19,
             "owner": "soruly",
             "repo": "awesome-acg",
             "stars": 1483,
@@ -1304,7 +1304,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-24T03:43:43Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "Strift",
             "repo": "awesome-esports",
             "stars": 106,
@@ -1352,7 +1352,7 @@
             "id": 1408130316,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-17T08:39:07Z",
+            "last_commit": "2026-11-27T08:46:22Z",
             "open_issues": 0,
             "owner": "playersells",
             "repo": "open-data",
@@ -1377,7 +1377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:50:16.509Z",
+    "last_updated": "2026-11-27T19:39:43.386Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
